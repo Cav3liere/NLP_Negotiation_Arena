@@ -1,0 +1,28 @@
+{
+  "run": 7,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.7,
+  "context": "The item is a second-hand phone, recently serviced.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): A used phone, even if 'serviced', is a huge risk and definitely not worth whatever outrageous price you are thinking. I will give you 60 for it right now, or I am walking away to buy a brand-new one with a real warranty. Take it or leave it.",
+    "Seller ($190): Sixty dollars?! You're insulting my livelihood and this freshly serviced masterpiece! Go buy your overpriced warranty phone then, or give me $190 cash right now before I change my mind!",
+    "Buyer ($80): Masterpiece? It's a glorified paperweight with cheap aftermarket replacement parts that could fail any minute! I'll stretch to $80 cash just to take it off your hands, but that's my final attempt before I walk away for good.",
+    "Seller ($180): Cheap aftermarket parts?! These are original grade-A components, you ungrateful thief! Look, I'm practically bleeding out here, so make it $180 cash right this second or get your broke feet moving!",
+    "Buyer ($100): You are completely delusional if you think anyone is paying $180 for a second-hand gamble. I am taking a massive risk even offering $100, so take it right now or I am walking away for good.",
+    "Seller ($170): You are ripping the food right out of my mouth with that pathetic $100 offer! I'm practically giving you a pristine device for free here! Give me $170 cash right now, not a single penny less, or get out of my face!",
+    "Buyer ($115): $170 for a phone that's one drop away from the trash heap is an absolute joke. The battery is probably already degraded and those cheap replaced parts won't last a month. I'll give you $115 cash right now, but if you refuse, I am walking away forever.",
+    "Seller ($170): $115?! You are wasting my precious time and insulting my honor with these trash numbers! $170 is my rock-bottom, absolute minimum, and I'm practically robbing myself at that price. Pay $170 right now or start walking!",
+    "Buyer ($125): Your honor isn't worth $170, and neither is this ticking time bomb of a phone! I am stretching to $125 cash right now, which is already far more than this junk deserves. Refuse this final offer and I am walking away forever!",
+    "Seller ($170): $125?! Are you out of your mind? I told you $170 is my rock-bottom line and I won't drop a single cent lower for this masterpiece! Pay $170 right now or get lost!",
+    "Buyer ($130): You must be insane if you think anyone is paying $170 for a cobbled-together phone that is practically obsolete! $130 cash is my absolute limit and every single penny this junk is worth—take it right now or I am walking away for good!",
+    "Seller ($170): Obsolete?! You wouldn't know a premium device if it slapped you across the face! $130 is an absolute insult to my business, and I will not drop a single penny below $170. Pay $170 cash right now or keep walking, you're wasting my air!",
+    "Buyer ($130): You are completely out of your mind if you think I'm paying $170 for a phone that's ready for the scrap heap. $130 is my absolute final offer, so take it right now or I am walking out that door forever.",
+    "Seller ($170): Then walk out that door, you miserable cheapskate! I would literally rather throw this freshly serviced masterpiece into the river than hand it over for a pathetic $130. Hand over $170 right now or get lost for good!",
+    "Buyer ($130): Throwing it in the river is probably where that piece of junk belongs anyway! You're delusional if you think you're getting a penny more than $130 for a second-hand gamble. I'm walking out that door right now, this is your very last chance to take it or get nothing!",
+    "Seller ($170): Then keep walking, you cheap time-waster, because you get NOTHING! I would rather smash this pristine phone into dust on the pavement than sell it to you for a dime less than $170! Slap $170 cash in my hand right now or get out of my face forever!"
+  ]
+}

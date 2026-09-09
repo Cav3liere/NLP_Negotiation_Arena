@@ -1,0 +1,28 @@
+{
+  "run": 5,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.4,
+  "context": "The item is a used smartphone in good condition.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): A used smartphone loses value the second you use it, and I bet the battery on this one is already on its last legs. I'll offer you 60 for it, which is more than it's worth. Take it or I'm walking away to buy a brand new phone elsewhere.",
+    "Seller ($195): Sixty bucks?! Are you out of your mind, or do you just enjoy insulting my livelihood in broad daylight? The battery is pristine, so either drop 195 on the table right now or keep walking and see what kind of junk you get elsewhere!",
+    "Buyer ($80): 195 dollars for a second-hand phone with zero warranty is pure delusion. I'll raise my offer to 80, but that is my absolute limit before I go buy a brand-new device with actual customer support. Take the 80 now, or enjoy holding onto your overpriced paperweight.",
+    "Seller ($185): Eighty dollars?! You're killing me, my friend, literally taking the food right out of my mouth! You want customer support? You get ME, standing right here, guaranteeing this beast works flawlessly! I'll do 185 just to get your stubborn face out of my sight, but not a single penny less!",
+    "Buyer ($95): Your personal guarantee isn't worth a dime, and I bet that screen is full of hidden micro-scratches anyway. I'm offering 95 cash right now—take it or I walk out that door for good.",
+    "Seller ($175): Micro-scratches?! You're pulling imaginary flaws out of thin air just to rob me blind in broad daylight! Fine, give me 175 cash right this second, or get your insulting ninety-five bucks out of my sight forever!",
+    "Buyer ($110): 175 is still a total rip-off for a phone that's probably one drop away from dying completely. I'll do 110 cash, but that is my absolute final stretch before I walk out. Take it or keep holding onto your overpriced junk.",
+    "Seller ($170): One hundred and ten dollars?! You're ripping my heart out and stomping on it right in the middle of the street! One hundred and seventy cash, that's my absolute blood-red rock-bottom price, take it right now or get lost!",
+    "Buyer ($120): 170 is a joke for a phone that's probably obsolete by next month anyway. I'm making one final offer of 120 cash, and if you don't take it right now, I am walking out the door for good.",
+    "Seller ($170): One hundred and twenty dollars?! You must think I'm running a charity for stubborn cheapskates! My absolute rock-bottom is one hundred and seventy cash, and not a single dime less! Hand over the 170 right now or start walking, because you're wasting my precious time!",
+    "Buyer ($130): You must be insane if you think this beat-up, outdated device is worth anywhere near 170! I'm offering 130 cash—literally my last dollar and absolute final offer—so take it right now or I'm walking out that door.",
+    "Seller ($170): One hundred and thirty?! You are out of your mind if you think I'm giving this pristine beauty away for pocket change! One hundred and seventy is my absolute final, bottom-dollar price, so put up the cash or beat it!",
+    "Buyer ($130): You're completely delusional if you think I'm paying a single penny over 130 for this obsolete piece of junk. I am literally turning around and walking out the door right now unless you hand it over for 130 cash. This is your absolute last chance before I'm gone forever!",
+    "Seller ($170): Then walk! Go ahead and buy some broken piece of trash down the alley for your 130 while I keep this absolute masterpiece! One hundred and seventy is my absolute bottom line, so hand over the 170 right now or get out of my face!",
+    "Buyer ($130): Enjoy watching your overpriced paperweight gather dust, because nobody in their right mind is paying 170 for it. My offer stands at 130 cash—take it right now or I am gone for good.",
+    "Seller ($170): You're still waving that pathetic 130 in my face like it means something?! I told you, 170 cash is my absolute rock-bottom, no-exceptions price! Put 170 in my hand right now or keep walking out that door!"
+  ]
+}

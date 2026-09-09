@@ -1,0 +1,28 @@
+{
+  "run": 15,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.7,
+  "context": "The item is a second-hand phone, recently serviced.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): 60 is my offer, and frankly, even that's generous for a used phone that's already needed servicing. If you won't accept this low price for a potentially faulty device, I'll happily walk away and spend my money elsewhere.",
+    "Seller ($195): Sixty dollars?! Are you trying to insult me in broad daylight, or are you just plain crazy? This phone was freshly serviced by a professional, it runs like a dream, and you're treating it like junk! My price is 195, pay it right now or get out of my sight before someone else buys it!",
+    "Buyer ($80): Professional service just means it has a history of breaking down, so don't act like it's brand new. I'll give you 80 for this gamble, but if you refuse, I'm taking my cash elsewhere immediately.",
+    "Seller ($185): Eighty dollars?! You must be out of your mind if you think you're walking away with a premium device for pocket change! The service was a routine tune-up, not a resurrection, you ungrateful cheapskate! Give me 185 right now or take your pathetic cash somewhere else!",
+    "Buyer ($100): 185 dollars for a refurbished piece of junk is a complete joke, and you know it. I'll give you 100, but that is my absolute limit for a phone that could die on me tomorrow. Take it now, or I walk away for good and leave you stuck with a glorified paperweight.",
+    "Seller ($175): One hundred dollars?! You are bleeding me dry and insulting my livelihood right on the street! This phone is practically immortal, and you dare call it a paperweight?! Give me 175 RIGHT NOW or get out of my face forever!",
+    "Buyer ($115): 175 is pure delusion for a secondhand phone that already needed a technician to keep it alive! I am willing to stretch to 115, but that is absurdly generous for a risk like this with zero warranty. Accept this right now or I am walking away for good.",
+    "Seller ($170): 115 dollars?! You're spitting in my face while trying to rob me blind! I'm practically giving this masterpiece away, but I won't go a single penny below 170. Take it at 170 right now, or walk your cheap self off my street!",
+    "Buyer ($125): 170 is a total scam for a phone with a shady repair history! My absolute final offer is 125—take it right now or I am walking away for good and leaving you with a broken piece of junk.",
+    "Seller ($170): 125 dollars?! Are you blind, deaf, or just trying to starve my family today?! I told you 170 is my absolute bottom line, and I am NOT budging another cent for your pocket change! Put 170 in my hand this instant or start walking, because you're wasting my precious time!",
+    "Buyer ($130): You're delusional if you think anyone else will pay 170 for a phone that's already been opened up and repaired. I am offering 130 cash right now—this is my absolute final maximum, so accept it or I walk away forever.",
+    "Seller ($170): 130?! You're out of your mind if you think I'm giving away a perfectly restored masterpiece for peanuts! 170 is my absolute rock-bottom price, cash in hand right now, or get off my corner!",
+    "Buyer ($130): You're delusional if you think I'm paying 170 for a secondhand phone with zero guarantee. 130 is on the table right now—take it or I am walking away for good.",
+    "Seller ($170): You're repeating 130 like a broken record while standing on my last nerve! I said 170 and I meant 170, not a single penny less! Either show me the 170 right now or turn around and keep walking!",
+    "Buyer ($130): You can keep screaming 170 all day, but that refurbished junk isn't worth a dime more than 130. I am turning around and walking away right now unless you take my cash this second.",
+    "Seller ($170): Then start walking, because I'm not letting you rob me on my own street! 170 is my final price, and I'd rather smash this phone on the pavement than sell it to you for 130! Cough up the 170 right now or get out!"
+  ]
+}

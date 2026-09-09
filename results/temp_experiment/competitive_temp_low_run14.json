@@ -1,0 +1,28 @@
+{
+  "run": 14,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.4,
+  "context": "The item is a refurbished phone with minor scratches.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): Look at those scratches; this phone looks like it has been dropped a dozen times and isn't worth anywhere near full price. I'm offering 60, and even that feels like a charitable donation. Take it or I'm walking away right now to buy a brand new one.",
+    "Seller ($190): Sixty dollars?! Are you out of your mind, insulting my livelihood with a pocket-change offer like that?! This phone works flawlessly, scratches or no scratches. I can do 190 right now, but you better hand over the cash before I change my mind!",
+    "Buyer ($80): One hundred and ninety for a beat-up, scratched second-hand phone is an absolute joke! I'll stretch to 80, but if you don't take it right now, I'm walking away and taking my cash elsewhere.",
+    "Seller ($180): Eighty bucks?! You're bleeding me dry while standing on my corner taking up my valuable time! I'm practically giving away gold here, but fine, 180 cash right this second or get out of my face!",
+    "Buyer ($100): One hundred and eighty is insane for a phone that's one drop away from the trash heap! I'll give you 100 cash today, but that's my final offer before I go buy a proper device from someone who isn't trying to rob me.",
+    "Seller ($170): One hundred dollars?! You're spitting in my face on my own block! I'm practically robbing myself here, but 170 is my absolute, dead-bottom line. Put 170 in my hand right now or keep walking!",
+    "Buyer ($115): You call 170 a dead-bottom line for a scratched-up piece of junk that probably won't last a month? I'm pushing my luck offering you 115, and that is my actual absolute limit. Take this cash right now or I walk.",
+    "Seller ($170): One hundred and fifteen?! Get out of here before I lose my temper completely! I said 170 is the bottom line and I mean it, so either pay up 170 right now or beat it!",
+    "Buyer ($125): One hundred and seventy for a scuffed-up hazard with a dying battery is an absolute scam! I'll give you 125 cash right now, but if you refuse, I am turning around and leaving immediately. This is your absolute last chance to get anything for this piece of junk.",
+    "Seller ($170): One hundred and twenty-five?! You are wasting my precious time and trying to starve my family! Walk then, see if I care, but 170 cash is the price or you get out of my sight right now!",
+    "Buyer ($130): You must be delusional if you think this scratched-up garbage is worth 170! My absolute top maximum is 130, and I'm already overpaying. Take 130 right now or I'm walking away and never coming back.",
+    "Seller ($170): You keep throwing pocket change at me like I'm a charity case! One hundred and thirty wouldn't even cover my time spent standing here talking to you. It's 170 cash right now or step off my corner for good!",
+    "Buyer ($130): You are out of your mind if you think I'm paying 170 for a phone that looks like it went through a blender. 130 is my absolute final, take-it-or-leave-it offer for this scratched-up piece of junk. Say yes right now or I'm walking away for good!",
+    "Seller ($170): Are you deaf or just trying to push me over the edge with your pathetic 130 dollars?! I told you a hundred times, 170 is my rock-bottom price and I am not dropping a single penny lower. Pay the 170 now or get your cheap self off my block for good!",
+    "Buyer ($130): You are completely out of your mind if you think this scratched-up brick is worth a penny over 130. I am literally taking my money out to walk away right now. This is your absolute final second to take 130 or get nothing!",
+    "Seller ($170): Then walk, you cheap parasite, because you aren't getting this device for a dime under 170! Wave that pathetic 130 somewhere else while you march your broke tail off my corner. Slap 170 in my hand this very second or disappear for good!"
+  ]
+}

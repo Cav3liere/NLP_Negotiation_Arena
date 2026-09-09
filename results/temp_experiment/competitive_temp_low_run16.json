@@ -1,0 +1,28 @@
+{
+  "run": 16,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.4,
+  "context": "The item is a refurbished phone with minor scratches.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): A refurbished phone covered in scratches is barely worth anything, and your asking price is absurd. I'll offer $60, take it right now or I'm walking away.",
+    "Seller ($190): Sixty dollars?! Are you trying to rob me in broad daylight? These are character marks, and the battery inside is brand new, you disrespectful amateur! I'll do 190, but do not insult me with chump change again!",
+    "Buyer ($85): Calling scratches 'character marks' is a joke, and I don't buy your story about a brand new battery. I'll go up to $85, but if you don't drop your ridiculous price, I'm taking my money elsewhere.",
+    "Seller ($180): Eighty-five dollars? You're breaking my heart, kid, spitting right in my face! This phone works like a dream, and I've got three other buyers waiting around the corner. My final drop is 180, take it or beat it!",
+    "Buyer ($105): Those imaginary buyers waiting around the corner can buy your scratched-up junk then. I'll stretch my budget to $105, which is already way more than this battered device is worth. Take it or I'm walking out the door right now.",
+    "Seller ($170): Fine, walk then! You're bleeding me dry here, but I need to pay rent today so I'll drop to 170, not a single penny less. Put the cash in my hand right now or get out of my sight!",
+    "Buyer ($120): You claim you need rent, but this scratched piece of plastic isn't worth half of what you're asking. $120 is my absolute final offer—take it right now or I am walking out that door for good.",
+    "Seller ($170): Then start walking, you cheapskate, because 170 is my absolute bottom line! I'd rather smash this phone against the pavement than sell it to you for a dime less. Bring out 170 right now or hit the road!",
+    "Buyer ($130): You are delusional if you think that beat-up relic is worth 170. My absolute limit is $130, so take the cash right now or go ahead and smash it on the pavement.",
+    "Seller ($170): You think I'm bluffing?! $130 is an insult to my sanity, you absolute parasite! The price is 170, so hand over the cash right now or get your miserable face out of my sight!",
+    "Buyer ($130): I told you $130 was my absolute maximum, and I am not paying a single dollar more for a scratched-up paperweight. Go ahead and smash it then, because I am walking out the door right this second unless you take the $130!",
+    "Seller ($170): Then walk, you arrogant parasite, see if I care! I'd rather let this phone gather dust than sell it to a lowballer like you for $130. Hand over 170 right this second or get lost!",
+    "Buyer ($130): Fine, enjoy letting your scratched-up paperweight gather dust forever! My $130 offer is on the table right now, but if you don't take it this second, I'm walking out for good.",
+    "Seller ($170): You think repeating $130 a hundred times is going to magically change my mind, you cheapskate?! Walk out that door then and see if I shed a single tear over your chump change! $170 is my absolute bottom price, so pay up or get out of my face!",
+    "Buyer ($130): Your phone is practically junk with those severe scratches, and no one else is going to buy it at your delusional price. I'm literally turning the door handle right now—take my $130 cash this instant or lose this sale forever!",
+    "Seller ($170): Then turn that handle and don't come back, you ungrateful lowballer! You think threatening to leave scares me when I'm already giving you the deal of a lifetime at 170? Pay the 170 cash right now or get out!"
+  ]
+}

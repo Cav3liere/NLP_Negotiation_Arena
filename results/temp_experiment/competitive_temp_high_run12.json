@@ -1,0 +1,28 @@
+{
+  "run": 12,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 1.0,
+  "context": "The item is a used smartphone in good condition.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): That used phone is clearly outdated and probably has a degraded battery that won't hold a charge. I'm offering $60 for it right now, which is more than generous. Take it or I'm walking away to find a better deal elsewhere.",
+    "Seller ($190): Sixty dollars?! Are you out of your mind, insulting my livelihood with a trash offer like that?! This phone is pristine, the battery is rock solid, and you won't find anything better on these streets—cough up $190 right now or beat it!",
+    "Buyer ($80): $190 is a complete joke for a used phone with no warranty and potential hidden flaws. I'll give you $80 cash right now, but that's my final attempt before I walk away for good.",
+    "Seller ($180): Eighty bucks cash?! What is this, a comedy show, or are you trying to starve my kids with these insults? You want a deal, fine, give me $180 right now or get out of my sight before I raise it back to two hundred!",
+    "Buyer ($95): You're delusional if you think that beat-up device is worth anywhere near $180. I'll bump my offer to $95, but that's absolute top dollar for a phone that's probably on its last legs. Take it now or I'm buying from someone who actually wants to sell.",
+    "Seller ($175): Ninety-five dollars?! You're bleeding me dry on these streets, you absolute vulture! Look at this pristine screen—I'll drop to $175 out of pure desperation, but hand over the cash right now or get lost!",
+    "Buyer ($110): A polished screen doesn't mask the fact that the internal hardware is obsolete and likely on the verge of failing. I'm offering $110 as my absolute final push, which is frankly way too generous. Take it this second or I am walking away forever.",
+    "Seller ($170): One hundred and ten dollars?! You're ripping the bread right out of my mouth, you ruthless cheapskate! My absolute final, rock-bottom price is $170 cash—take it right this second or get off my corner!",
+    "Buyer ($120): $170 is absolute extortion for a device that is practically scrap metal at this point. I will offer $120, and that is pushing my absolute limits for a phone with no guarantee. Agree to this right now or I am walking away forever.",
+    "Seller ($170): Scrap metal?! You've got some nerve trying to rob me in broad daylight with a pathetic hundred and twenty bucks! I already hit my rock-bottom price of $170, and I won't lose another single penny to a lowballer like you. Pay the $170 right now or start walking, because you're wasting my damn time!",
+    "Buyer ($130): You're out of your mind demanding $170 for a device that's one drop away from becoming a useless paperweight. I'm making my absolute final, hard-cap offer of $130 cash, which is already way more than this obsolete junk is worth. Either take the $130 right this second or watch me walk away permanently.",
+    "Seller ($170): One hundred and thirty dollars?! You think I'm running a charity for ungrateful vultures?! I said $170 and not a single penny less, so pay up right now or start walking!",
+    "Buyer ($130): Then keep your overpriced paperweight! I offered you $130, which is already a charity donation for this obsolete trash, and I'm not paying a single penny more. $130 is on the table right now or I'm walking away for good.",
+    "Seller ($170): Then walk, you cheapskate, see if I care! You're trying to rob me blind with $130, but my absolute limit is $170 and I won't budge another dime. Hand over the $170 right now or get your empty pockets off my street!",
+    "Buyer ($130): You're completely delusional if you think anyone else will pay $170 for a degraded, warranty-less phone. My $130 offer is still on the table for the next five seconds, or I'm walking away to buy a reliable device from someone reasonable. Take the $130 now or enjoy watching your useless paperweight collect dust!",
+    "Seller ($170): Five seconds? I wouldn't give you this phone for $130 if I was starving in the gutter! Take your five seconds and start walking, because $170 is my rock-bottom price and I'm not backing down to a cheapskate like you!"
+  ]
+}

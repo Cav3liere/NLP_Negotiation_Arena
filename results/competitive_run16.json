@@ -1,0 +1,25 @@
+{
+  "run": 16,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.7,
+  "context": "The item is a second-hand phone, recently serviced.",
+  "agreed": true,
+  "final_price": 170,
+  "rounds": 7,
+  "transcript": [
+    "Buyer ($60): 60 bucks for a used phone that's already needed repairs is pushing it. Give it to me for 60 right now or I'm walking away to buy a brand new one.",
+    "Seller ($190): Are you out of your mind?! Sixty bucks wouldn't even pay for the professional service and pristine original parts I just put into this beauty. You go ahead and try finding a brand new phone for sixty dollars—see how far you get before you come crawling back here paying 190!",
+    "Buyer ($80): Serviced just means it was already broken once and is bound to fail again soon. I'm not subsidizing your repair bills, so 80 is my counter or I walk away right now.",
+    "Seller ($180): Walk away then, see if I care! You're insulting my craft offering eighty bucks for a masterfully restored device that will outlast us both. I'm already bleeding cash here, but I'll drop to 180—take this steal right now or get out of my sight!",
+    "Buyer ($100): Calling a refurbished phone 'masterfully restored' doesn't change the fact that it's a damaged device waiting to break again. I'm taking all the risk buying your second-hand junk, so 100 is my counter. Take it right now or I'm walking for good.",
+    "Seller ($175): You're calling my pristine device junk right to my face?! One hundred dollars is an insult, you thief—I'd rather throw it in the ocean than give it away for pocket change! 175 is my absolute bottom offer, take it right now or get lost!",
+    "Buyer ($115): Throwing it in the ocean won't get you a single penny back, so stop pretending this repaired paperweight is worth 175. I'm making one last concession to 115, but that is my absolute final offer before I permanently walk away.",
+    "Seller ($170): You're trying to ruin me with these pathetic jokes of an offer! 115 won't even cover my expenses for this pristine phone. 170 is my rock-bottom price—take it right now or get out!",
+    "Buyer ($125): Your 'rock-bottom' 170 is still delusional for a patched-up phone that could stop working tomorrow. I will stretch to 125 cash today, or you can watch it sit on your shelf gathering dust forever.",
+    "Seller ($170): You think waving 125 cash frightens me? Let it gather dust then, because I am NOT giving away this perfectly restored phone for your pocket change! 170 is my absolute final stand—pay it now or get out of my face!",
+    "Buyer ($130): You are out of your mind if you think anyone is paying 170 for a broken phone stuffed with cheap replacement parts. I will do 130 cash right now, and that is my absolute, non-negotiable final limit. Take this offer or I walk away for good and leave you with your dust-collector.",
+    "Seller ($170): Cheap replacement parts?! You dare insult my honor and my work after I poured my soul into restoring this beauty! Take your pitiful 130 dollars and beat it, or hand over 170 right now before I change my mind!",
+    "Buyer ($130): Fine, I'll hand over the 130 cash since you finally realized nobody else is going to buy this patched-up device. Hand it over before I change my mind. <AGREEMENT>"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "run": 9,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.4,
+  "context": "The item is a used smartphone in good condition.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): Look, a used phone like this probably has terrible battery life and hidden scratches, so it's definitely not worth much. I'll offer you 60 for it right now, but if you don't take it, I'm walking away to buy from someone reasonable.",
+    "Seller ($190): Sixty dollars?! You're insulting my intelligence and spitting in my face with a joke like that! This phone is practically brand new, and I've got three other people waiting to buy it right now. I'll do 190, but you better decide fast before I raise the price!",
+    "Buyer ($80): Three other buyers? That's the oldest trick in the book to cover up a phone that likely has a dying battery and hidden defects. I'm willing to stretch to 80, but if you don't take it, I'm walking away right now.",
+    "Seller ($180): Eighty dollars?! You are trying to rob me in broad daylight! Walk away then, go buy some broken trash elsewhere! I won't go a penny below 180, so put the cash in my hand right now or get out of my sight!",
+    "Buyer ($100): $180 for a used phone with guaranteed hardware wear is pure delusion. I'll give you $100 cash today as my absolute final push, or I'm walking for good and leaving you with your imaginary buyers.",
+    "Seller ($170): One hundred dollars?! You are literally bleeding me dry with these insulting jokes! $170 is my absolute rock-bottom, take-it-or-leave-it price right now, or get out of my face!",
+    "Buyer ($115): $170 is a joke for a device that's one drop away from a dead motherboard and a useless battery. I'll stretch to $115, but that is my absolute limit before I go buy a brand-new phone with a real warranty. Take $115 right now or keep holding onto your overpriced paperweight.",
+    "Seller ($170): One hundred fifteen dollars?! Go buy your 'brand-new phone' then and see how far that pocket change gets you! I am staying at 170, so put the cash down right now or beat it!",
+    "Buyer ($125): 170 dollars for a phone that will probably overheat and crash within a week is ridiculous. I'll make one last concession to 125 cash right now, but if you refuse, I am walking away immediately.",
+    "Seller ($170): One hundred twenty-five dollars?! You are wasting my precious time with these pathetic, insulting offers! My absolute bottom price stays at 170 cash, so hand over the bills right now or get out of my sight!",
+    "Buyer ($130): $170 is complete insanity for a secondhand phone that could stop working tomorrow. I am offering $130 right now as my absolute final, non-negotiable limit. Take it or I am walking away forever and buying elsewhere.",
+    "Seller ($170): One hundred thirty dollars?! You must be completely out of your mind to think I'd give this beauty away for pocket change! Walk away then, because 170 cash is my absolute floor and I won't drop a single dime lower!",
+    "Buyer ($130): Fine, enjoy holding onto your overpriced paperweight while its battery degrades to zero! I offered you $130 cash, which is already way more than this used device is worth. Take $130 right now or I am walking away for good.",
+    "Seller ($170): Then start walking, you time-wasting cheapskate! You think threatening to leave hurts me when I have real buyers lined up? It's 170 cash right now or get out of my face forever!",
+    "Buyer ($130): You're delusional if you think anyone is paying $170 for a phone that's probably full of hidden defects and a ruined battery. $130 cash is sitting right here, and I am literally stepping out the door. Take it right now or enjoy watching your useless paperweight gather dust forever!",
+    "Seller ($170): Step out that door and don't look back then, you cheapskate! You think I'm going to starve over your pathetic $130 offer for a pristine phone? Put $170 cash in my hand right now or keep walking!"
+  ]
+}

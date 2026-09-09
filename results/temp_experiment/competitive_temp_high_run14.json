@@ -1,0 +1,28 @@
+{
+  "run": 14,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 1.0,
+  "context": "The item is a second-hand phone, recently serviced.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): A 'recently serviced' phone just means it was already broken and patched together with cheap knockoff parts. I'm offering $60 cash right now, take it or I walk away to buy a reliable device elsewhere.",
+    "Seller ($190): $60?! Are you out of your mind, insulting me on my own turf with that trash offer? This phone was restored by a master technician, and you're acting like it's stolen garbage! Give me $190 cash right now or get lost before the guy behind you snatches it up.",
+    "Buyer ($80): A 'master technician' is just code for a guy in a basement with a screwdriver, and that fake buyer behind me isn't going to save you. I'll raise my offer to $80, but if you keep blustering, I'm taking my cash elsewhere.",
+    "Seller ($175): $80?! You must think I'm running a charity for broke clowns! I won't go a single cent below $175 for this pristine piece of tech, so hand over the cash right now or beat it!",
+    "Buyer ($100): Calling this overpriced brick 'pristine' is pure comedy when it's likely going to overheat and die in a week. I'll stretch to $100, but take it right now or I walk away for good and leave you with a useless paperweight.",
+    "Seller ($170): $100?! You are bleeding me dry and spitting in my face, you absolute parasite! My rock-bottom, absolute final drop is $170 cash, so pay up now or I swear I'll smash this phone on the curb before letting you disrespect me again!",
+    "Buyer ($115): Smashing it on the curb would probably improve its trade-in value, considering how badly it's been patched together. I'll make a final push to $115, but if you refuse, I'm walking away right now to buy a reliable phone with an actual warranty.",
+    "Seller ($170): $115?! You are wasting my time and sucking the life out of me with these pathetic, insulting offers! Walk then, go buy your precious 'warranty' for triple the price! $170 is my absolute bottom line—pay it right now or get your broke hands off my counter!",
+    "Buyer ($125): Keep shouting, but no one else is going to buy a refurbished wreck with a failing battery. I'm offering $125 cash right now, which is more than generous for a device with zero warranty. Accept this final offer or I walk out that door for good.",
+    "Seller ($170): You're standing here insulting my livelihood with $125 after I explicitly gave you my rock-bottom price?! This phone is worth every single penny of $170, and I'd rather let it rot in my pocket than let you steal it. Hand over $170 cash right now or walk out that door forever!",
+    "Buyer ($130): You can let it rot in your pocket all you want, but nobody else is paying top dollar for a patched-up device with zero warranty. I will give you $130 cash right now—that is my absolute, dead-end maximum offer. Take $130 this second or I am walking out the door forever.",
+    "Seller ($170): Then walk, you ungrateful cheapskate! I told you $170 is my absolute bottom line and I'd rather smash it on the asphalt than take your pathetic $130. Put $170 in my hand right now or get lost forever!",
+    "Buyer ($130): Fine, keep your overpriced junk and enjoy watching it collect dust. $130 is my absolute limit, so if you don't take it right now, I'm out the door and you get nothing.",
+    "Seller ($170): There's the door, so go ahead and walk, you cheap parasite! You think threatening to leave with your pathetic $130 scares me into giving this tech away? Put $170 in my hand right now or get your broke face off my corner!",
+    "Buyer ($130): You are delusional if you think that glued-together piece of junk is worth $170. $130 cash is my absolute final offer, so take it right now or I walk out that door for good.",
+    "Seller ($170): Are you deaf, or just trying to drive me insane with that pathetic $130 offer?! You've threatened to walk ten times already, so either pull $170 cash out of your pocket right now or get your broke ass off my corner!"
+  ]
+}

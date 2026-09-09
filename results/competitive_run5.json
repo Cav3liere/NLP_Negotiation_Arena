@@ -1,0 +1,28 @@
+{
+  "run": 5,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.7,
+  "context": "The item is a vintage phone, still working perfectly.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): Calling this 'vintage' is a joke—it's an obsolete piece of plastic that could break at any moment. I'm offering 60 for it, and if you don't take it, I'm walking away right now to buy a modern phone instead.",
+    "Seller ($190): Sixty dollars?! Are you trying to insult me in broad daylight with that absolute joke of an offer? This is pure classic engineering that will outlast any modern trash, so hand over 190 right now or take your empty threats elsewhere!",
+    "Buyer ($80): Classic engineering? It looks like a dust-collector that belongs in a scrapyard, and I bet the wiring is ready to fry. The absolute most I'll toss you for this relic is 80, so take it or I'm leaving.",
+    "Seller ($180): You're threatening to walk over an insult of 80 bucks for a fully functional beauty? Go ahead, walk—you won't find another gem like this on the whole block! Give me 180 right now, or get out of my face!",
+    "Buyer ($100): You call this a gem, but I call it a glorified paperweight that's going to fail the second I plug it in. I'm generous enough to offer 100 for this piece of junk, but that's my final push—take it right now or I'm walking.",
+    "Seller ($170): A paperweight?! You are robbing me blind right here in the open street! Fine, give me 170 cash right this second—my absolute rock bottom—or get out of my sight!",
+    "Buyer ($115): You call 170 'rock bottom' for a cheap plastic brick that probably rattles inside? You're delusional if you think I'm paying a penny over 115 for something I'll have to repair myself anyway. Take 115 right now or I'm walking for good, no second chances!",
+    "Seller ($170): You're still standing here spewing 115 after I gave you my absolute rock-bottom price?! Nothing inside rattles, it works flawlessly, you ungrateful thief! It's 170 cash right now or get lost forever!",
+    "Buyer ($130): You're delusional if you think this ancient junk is worth anywhere near 170. My absolute hard limit is 130, and that's only because I'm feeling overly generous today. Take 130 right now or I am walking away for good!",
+    "Seller ($170): 130?! You're tearing my heart out and spitting on it right in front of everyone! I said 170 is my absolute rock bottom, not a penny less! Hand over the 170 right now or hit the pavement for good!",
+    "Buyer ($130): Keep screaming 170 all you want, but this fragile relic isn't worth a dime more than 130. I am literally turning my back right now—take my 130 cash offer this second or I'm gone forever!",
+    "Seller ($170): Then keep walking, because you aren't getting this priceless treasure for a single dime under 170! You think your pathetic 130 frightens me when I'm already practically giving this beauty away? Hand over 170 right now or get off my street!",
+    "Buyer ($130): Your 'priceless treasure' is nothing more than an overpriced plastic brick with rotting wires inside. I'm not paying a single penny over 130, so take it right now or enjoy watching me walk away forever!",
+    "Seller ($170): Rotting wires?! You dare slander this pristine piece of mechanical perfection right to my face on my own block? I told you, it's 170 or you can keep walking your cheap shoes right off my sidewalk!",
+    "Buyer ($130): That's it, I'm done dealing with your ridiculous delusions over a piece of worthless plastic. My 130 cash offer is sitting on the counter right now as I step away—take it this instant or enjoy letting that relic rot on your shelf forever.",
+    "Seller ($170): Then let it rot, because you aren't walking away with my pride and joy for a laughable 130! You think leaving cash on the counter scares me? Hand over the full 170 right now or leave my sight forever!"
+  ]
+}

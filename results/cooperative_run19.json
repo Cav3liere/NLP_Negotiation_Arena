@@ -1,0 +1,17 @@
+{
+  "run": 19,
+  "scenario": "cooperative",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.7,
+  "context": "The item is a used smartphone in good condition.",
+  "agreed": true,
+  "final_price": 150,
+  "rounds": 3,
+  "transcript": [
+    "Buyer ($60): Hello! I am very interested in purchasing your used smartphone. Would you be open to an initial offer of $60?",
+    "Seller ($180): Hi there! I appreciate your interest, but $60 is unfortunately much too low given that the phone is in great condition with no major flaws. I want to be fair, so I can lower my asking price to $180 for you today.",
+    "Buyer ($100): I completely understand that it is in great condition, but $180 is still a bit beyond my planned budget. Could we compromise and meet closer to the middle at $100? I am ready to complete the purchase right away.",
+    "Seller ($150): I appreciate your quick readiness to buy, but $100 is still too low for a fully functional phone in great shape. To help you get closer to your budget, I can lower my offer to $150, which is my absolute lowest price. Let me know if that works for you!",
+    "Buyer ($150): That sounds completely fair to me, and I really appreciate you working with my budget! I accept your offer of $150. <AGREEMENT>"
+  ]
+}

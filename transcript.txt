@@ -1,0 +1,16 @@
+Agreement: True
+Final price: 155
+Rounds: 6
+
+--- TRANSCRIPT ---
+Buyer ($60): Hey there! I'm looking to pick up a phone today and I've got cash ready to move fast. How about I take it off your hands right now for 60 bucks?
+Seller ($180): Sixty bucks? Are you joking, pal, or do you just not know quality when you see it? I can do 180, and that's only because I like seeing cash in hand today.
+Buyer ($75): 180 is way out of my ballpark for a quick flip, my friend! I can stretch my cash a bit and do 75 right now, cold hard bills. What do you say, can we make a deal today?
+Seller ($170): Seventy-five? You're insulting my intelligence with numbers like that. I'll drop it to 170, but don't push your luck or I'll sell it to someone who actually values good hardware.
+Buyer ($85): Look, 170 is still way too steep for me to make any profit on this, boss. I can bump it up to 85 cash right now, but I'm really squeezing my margins here. Let's shake on 85 and get this done!
+Seller ($165): Eighty-five? You're squeezing your margins, but you're squeezing my patience even more. I'll give you 165, and that is my absolute final offer before I find a buyer who actually has money.
+Buyer ($90): 165 is still way too rich for my blood if I want to turn a quick buck today. I can push my final offer up to 90 cash right now, and that is taking a serious gamble on my end. Take it or leave it, boss!
+Seller ($160): Ninety bucks? You must be dreaming if you think I'm giving this away for pocket change. 160 is as low as I'll even consider, so either pay up or stop wasting my time.
+Buyer ($95): Come on, 160 is still way too high for me to make any margin on a flip. I'll throw in another five bucks and make it 95 cash right now. That is strictly my top dollar, so let's get this deal locked in!
+Seller ($155): Ninety-five dollars? You're playing games, kid, and my patience is completely gone. I'll do 155, but if you drop another insult like that, we are done here.
+Buyer ($155): Now you're talking my language, boss! 155 cash in hand works for me, let me grab my keys and come pick it up right now. <AGREEMENT>

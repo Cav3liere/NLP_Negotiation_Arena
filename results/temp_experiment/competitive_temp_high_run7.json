@@ -1,0 +1,28 @@
+{
+  "run": 7,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 1.0,
+  "context": "The item is a used smartphone in good condition.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): That used phone looks beat up and the battery is probably practically dead anyway. I'm not paying a fortune for someone else's old clutter, so my offer is 60 or I walk away right now.",
+    "Seller ($190): Beat up? Are you blind?! This screen is pristine and the battery lasts all day, you insulting lowballer! Sixty bucks won't even buy the original charger, so pay 190 right now or get out of my face!",
+    "Buyer ($75): 190 is a complete joke for a generic used phone with no warranty! You're dreaming if you think anyone else will buy it at that absurd price. I'll give you 75 cash right now, or I'm taking my money elsewhere.",
+    "Seller ($180): Seventy-five cash? You must be out of your mind if you think a few folded bills make a garbage offer look shiny! Go on, walk away then, but no one in this market is selling you a pristine smartphone for pocket change. Give me 180 right now, or stop wasting my time!",
+    "Buyer ($90): You're deluded if you think that outdated piece of tech is worth 180. The screen might look okay now, but the hardware inside is already obsolete and bound to fail soon. My absolute final push is 90, take it or I'm buying a brand new budget phone instead.",
+    "Seller ($175): Ninety bucks for a phone that will outlast your miserable budget option?! You're spitting in my face while trying to rob me blind! Fine, I'll drop to 175 just to end this nightmare, but pay up right now or beat it!",
+    "Buyer ($105): 175 is still a massive rip-off for a phone that probably has hidden water damage and an expiring battery. I'm stretching my limit to 105, which is more than generous for this junk. Drop your ridiculous price right now or I'm walking away for good.",
+    "Seller ($170): Water damage?! You're making up ridiculous lies just to steal a top-tier device right out of my hands! 170 is my absolute bottom line, take it this second or get off my street!",
+    "Buyer ($120): 170 is a total fantasy for a beat-up paperweight with zero support! I'm not going a penny over 120 for something that will probably stop turning on next week. Take this offer right now or I'm walking away for good.",
+    "Seller ($170): One hundred and twenty bucks is an absolute insult to my face! I already told you 170 is my rock-bottom price, and I am not dropping a single penny lower for a cheapskate. Hand over the 170 right now or get off my street for good!",
+    "Buyer ($130): You're out of your mind if you think anyone is paying 170 for a phone that's one drop away from the trash can. I am offering 130 absolute max, which is complete insanity on my part for this piece of junk. Agree right now or I am walking away forever!",
+    "Seller ($170): One hundred and thirty? You're screaming 'insanity' while trying to rob me in broad daylight! I told you 170 is my rock bottom and I won't lose a single cent more to a cheapskate. Pay the 170 right now or get off my street forever!",
+    "Buyer ($130): That's it, I'm done wasting my breath on your overpriced junk. I offered you my absolute cap of 130, which was already way too generous for a phone bound for the scrapyard. Keep your worthless paperweight, I'm walking away right now!",
+    "Seller ($170): Go on and walk, you bluffing cheapskate! You won't find a phone this good for a penny under 170 anywhere on these streets. Turn around with the 170 right now or don't ever show your face here again!",
+    "Buyer ($130): You're delusional if you think I'm coming back to hand over 170 for a dying brick. My absolute final offer of 130 is on the table only until I reach the end of the street. Take it now or enjoy holding onto your useless, overpriced paperweight forever!",
+    "Seller ($170): Keep walking then, because 170 is my absolute bottom line and I'd rather smash this phone on the pavement than let you steal it for 130! You're missing out on a flawless device over a few lousy bucks. Hand over the 170 right now or enjoy your walk!"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "run": 9,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.7,
+  "context": "The item is a second-hand phone, recently serviced.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): 60 bucks is all this used phone is worth, especially since 'recently serviced' usually means it was already broken once. Give it to me for 60 or I am walking away right now to find a better deal elsewhere.",
+    "Seller ($190): Sixty bucks?! Are you out of your mind insulting my business like that? This screen is spotless and the battery was just replaced by a pro! You want to walk? Go ahead and walk, but 190 is the lowest I go right now!",
+    "Buyer ($80): A replaced battery just proves this phone was heavily abused and on its deathbed! $190 is a complete joke for a refurbished piece of junk, so my offer is $80—take it right now or I am walking for good.",
+    "Seller ($175): Eighty dollars?! You are ripping the food right out of my mouth, you thief! I paid more than that just for the brand-new battery! Look, I am practically robbing myself, but give me $175 right now or get out of my sight before I change my mind!",
+    "Buyer ($100): You probably put a cheap, knock-off battery in it that will swell up in a month anyway! I am not paying for your bad choices, so $100 is my absolute final offer before I buy a reliable phone from someone else. Take it or I'm gone.",
+    "Seller ($170): A knock-off battery?! I used genuine OEM parts, you ungrateful vulture! $100 is a total insult, but fine, $170 is my ABSOLUTE rock-bottom offer or you get nothing. Take it or hit the bricks right now!",
+    "Buyer ($115): You claim it's OEM, but I have no proof and zero warranty on this glorified paperweight. I'm stretching my budget to the absolute limit at $115, and if you turn this down, I am walking away right now.",
+    "Seller ($170): You think $115 buys a fully serviced masterpiece? You're insulting my honor and wasting my precious time! Hand over $170 right now or get out of my face for good!",
+    "Buyer ($130): $170 is pure delusion for a phone with zero warranty that could break down tomorrow. $130 is the absolute maximum amount of cash I am willing to throw away on this, so take it right now or I am walking away forever.",
+    "Seller ($170): You're standing here waving $130 in my face like you're doing me a favor?! I told you $170 is my rock-bottom floor, and I'd rather smash this masterpiece on the pavement than let you steal it for a penny less! Pay the $170 right now or hit the road!",
+    "Buyer ($130): Go ahead and smash it on the pavement then, because I am not paying $170 for a risky, used device with zero warranty! $130 is my absolute final, take-it-or-leave-it offer, so accept it right now or I am walking away forever.",
+    "Seller ($170): Then hit the road and go buy some broken trash elsewhere, because you aren't robbing me today! I'm not dropping a single dime below $170 for this perfect phone. Hand over the $170 right now or get out of my sight forever!",
+    "Buyer ($130): Keep your overpriced paperweight then, because no sane person is giving you $170 for a phone that's already failed once. My offer stands at $130 for the next five seconds, or I walk away for good and leave you with zero dollars.",
+    "Seller ($170): Five seconds? Count them down while you walk, because you aren't getting this pristine device for a joke like $130! I'd rather keep it forever than suffer the disgrace of your insult. Hand over $170 right now or get out of my face!",
+    "Buyer ($130): Enjoy letting that phone rot on your shelf while its cheap battery degrades even further. $130 is the absolute most I will ever pay for this risky gamble, so take it now or enjoy making zero sales.",
+    "Seller ($170): Zero sales is better than letting a crook like you spit in my face for $130! That fresh battery alone is worth more than your pocket change, so hand over $170 right now or beat it! This is your absolute final chance before I walk away from YOU!"
+  ]
+}

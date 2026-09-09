@@ -1,0 +1,28 @@
+{
+  "run": 9,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 1.0,
+  "context": "The item is a refurbished phone with minor scratches.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): This phone is refurbished and covered in scratches, so it's barely worth anything. My offer is 60, which is already generous for somebody else's castoff. Take it now or I'll take my money elsewhere.",
+    "Seller ($190): 60 bucks?! Are you insane, coming over here and disrespecting my business with a garbage offer like that?! These scratches give it character, and the phone works like a dream! Pay 190 right now or get out of my face!",
+    "Buyer ($80): Calling damage 'character' doesn't hide the fact that this battery is probably on its last legs. I'll offer 80, but if you keep yelling instead of being reasonable, I'm walking away for good.",
+    "Seller ($180): You dare insult my battery after I already cut you a break?! Fine, walk! But you won't find a working beast like this anywhere else on these streets, so hand over 180 right now or scram!",
+    "Buyer ($95): Calling this scratched-up brick a 'beast' is hilarious when it's one drop away from being a useless paperweight. I'm taking a massive risk buying your junk, so my offer is 95 and not a penny more. Take it right now or I'm walking for good.",
+    "Seller ($175): A paperweight?! You're bleeding me dry on these streets, you absolute bandit! Fine, 175 is my absolute final offer, but if you don't pull out your wallet right this second, get out of my sight!",
+    "Buyer ($110): You think 175 is a deal for a scratched-up, secondhand phone? You're out of your mind if you think anyone else will buy a device with a compromised screen and questionable battery life. I'll give you 110 right now, but if you refuse, I'm walking away for good.",
+    "Seller ($170): 110?! You're trying to ruin me in broad daylight, you absolute leech! Look, I'm starving today, so I'm practically throwing it at you for 170, but that is literally my blood on the concrete. Hand over the 170 right now or get your cheap hands off my table!",
+    "Buyer ($125): Stop crying about blood on the concrete for a piece of cheap plastic that probably turns off at 20% battery. I'm offering 125, and that's already way too much for a beat-up liability. Take it now or I walk immediately.",
+    "Seller ($170): 125?! You are trying to steal the food right out of my children's mouths! I said 170 is my rock-bottom blood-and-tears price, and I won't drop another single cent. Put 170 in my hand this instant or get out of my sight before I lose my mind!",
+    "Buyer ($130): You are completely delusional if you think that beat-up paperweight is worth 170. 130 is my absolute final offer, and I am literally stepping away from your table right now. Take the cash or enjoy letting that scratched junk rot forever.",
+    "Seller ($170): Then walk! Go ahead, take your pathetic 130 and go buy yourself a toy plastic phone! I'd rather smash this phone on the concrete right now than let you rob me for a single penny less than 170!",
+    "Buyer ($130): Go ahead and smash it then, because nobody in their right mind is paying 170 for a scratched-up piece of junk. My 130 is the only real cash you'll see today, so take it right now or watch me walk away forever.",
+    "Seller ($170): You think you can call my bluff, you cheap vulture?! I'd rather let it sit here and shine than hand it over to a thief like you for a penny under 170! Put 170 on the counter right now or get lost forever!",
+    "Buyer ($130): Enjoy letting your scratched-up garbage collect dust on the shelf then. My offer stays at 130, and I am turning my back and walking out right now. Speak up if you want the cash before I'm down the street, because I'm not coming back.",
+    "Seller ($170): Walk then, keep walking, you ungrateful thief! You think I'm gonna chase you down the block just to let you rob me? It's 170 right now or keep your cheap self moving!"
+  ]
+}

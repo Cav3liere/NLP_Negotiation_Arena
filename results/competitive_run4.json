@@ -1,0 +1,28 @@
+{
+  "run": 4,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.7,
+  "context": "The item is a second-hand phone, recently serviced.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): A 'recently serviced' phone just means it was already broken once, so who knows how long it will actually last. I'm taking a huge risk here, so 60 is my absolute opening offer. Take it now or I'll go buy a reliable one elsewhere.",
+    "Seller ($190): Sixty bucks?! Are you completely out of your mind, insulting my pristine stock like that?! This machine has fresh internal parts and runs like a dream, so 190 is my counter—take it right now before I change my mind and raise it!",
+    "Buyer ($75): 190 for a refurbished paperweight is a total joke, and calling a repaired phone 'pristine' is ridiculous. I'll bump my offer to 75 as my absolute final goodwill gesture, but not a penny more. Lower your price significantly or I'm walking away right now.",
+    "Seller ($180): Seventy-five dollars?! You are trying to spit in my face and rob me in broad daylight! Fine, 180 cash right now, but if you hesitate for even one second, I'm selling it to the guy standing right behind you!",
+    "Buyer ($90): You can sell it to the imaginary guy behind you then, because nobody in their right mind pays 180 for a glitchy, repaired phone. My absolute limit is 90, so drop your ridiculous price right now or I am walking away for good. You won't get a better offer for a broken device.",
+    "Seller ($170): Ninety dollars? You are breaking my heart and wasting my precious time with these beggar prices! 170 is my absolute final bottom line—pay it right now or get your broke feet off my pavement!",
+    "Buyer ($105): 170 is a total scam for a phone that's already failed once and will probably break again tomorrow. I'll stretch to 105 just to end this waste of time, but that is my final offer before I walk away for good.",
+    "Seller ($170): One hundred and five?! You are out of your mind if you think I'm giving this pristine hardware away for pocket change! I told you 170 is my rock-bottom minimum—pay up right now or take a hike!",
+    "Buyer ($120): Stop repeating 170 for a piece of junk that's one drop away from the trash can. I'll give you 120 cash right now, but if you refuse, I'm leaving immediately and you can keep your broken brick.",
+    "Seller ($170): One hundred twenty?! You're suffocating me, you're ruining my business, you monster! One hundred and seventy is my absolute rock-bottom price—hand over the cash right now or get out of my sight!",
+    "Buyer ($130): You are completely delusional if you think that repaired junk is worth 170. I will give you 130 as my absolute final, non-negotiable maximum, which is already way too generous for a phone bound to break again tomorrow. Take the 130 right now or I am walking away for good.",
+    "Seller ($170): One hundred thirty?! You're driving me to the funny farm with these ridiculous, insulting offers! I said 170 and I mean 170—either pull out the extra forty bucks or walk away right now!",
+    "Buyer ($130): You're delusional if you think I'm paying 170 for a device that's already failed once. My offer stands at 130, which is far more than this piece of junk is worth. Take the 130 right now or I'm walking away forever.",
+    "Seller ($170): You keep repeating 130 like it's going to magically change reality! I'm practically bleeding out here, but I won't go a single cent below 170 for this beautiful machine! Hand over the 170 right now or start walking, because I'm done with your games!",
+    "Buyer ($130): Keep your broken brick then, because 170 is a total rip-off for a phone that's already been opened up and repaired. I am not going a single penny above my 130 offer. Take the 130 right now or I am walking away forever.",
+    "Seller ($170): Then walk away and enjoy your miserable, phoneless life! I would rather smash this masterpiece on the pavement than let you steal it for a pathetic 130! One hundred seventy dollars right now, or get out of my face forever!"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "run": 10,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 1.0,
+  "context": "The item is a refurbished phone with minor scratches.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): A refurbished phone covered in scratches is hardly worth anything, and it'll probably break in a month. I'm willing to give you $60 for it, but that's my opening offer. Take it or I'll take my money elsewhere right now.",
+    "Seller ($190): Sixty bucks?! Are you completely out of your mind trying to insult me on my own street like that? This machine is pure gold despite a few tiny scuffs, so I'll give you ONE chance at $190—take it right now or hit the pavement!",
+    "Buyer ($75): Pure gold? It's a scratched-up used phone with a battery that probably dies in ten minutes. $190 is a joke; I'll raise my offer to $75, but that's my final attempt before I walk away for good.",
+    "Seller ($180): $75?! You are tearing my heart out and spitting on my livelihood right here on the pavement! Fine, go walk away and buy a brick, or give me $180 right this second before I change my mind!",
+    "Buyer ($85): Calling this $180 piece of junk 'gold' doesn't hide the fact that the screen is scratched to hell. I'll offer $85, but if you refuse, I am walking away immediately to buy a functional phone elsewhere.",
+    "Seller ($175): Eighty-five dollars?! You are bleeding me dry right in broad daylight! Fine, go buy a cheap toy elsewhere, or give me $175 right this second for a fantastic phone—that's my absolute bottom, take it or beat it!",
+    "Buyer ($95): $175 is still a total rip-off for a beat-up device with a degraded battery! I am turning around right now unless you take $95 for this scuffed paperweight. This is your absolute last chance before I walk.",
+    "Seller ($170): Ninety-five dollars?! You are literally robbing me in broad daylight and trying to starve my family! Fine, give me $170 cash RIGHT NOW—not a single penny less—or get your ungrateful face off my street!",
+    "Buyer ($105): $170 for a beat-up phone that looks like it survived a warzone is insane. I will give you $105, but I am taking a step away right now if you don't take it.",
+    "Seller ($170): One hundred and five dollars?! Take another step then, because I would rather throw this phone into the ocean than hand it over for pocket change! $170 is my rock-bottom, absolute final price, so hand over the cash right now or keep walking!",
+    "Buyer ($115): You would really rather throw a heavily scratched, worn-out device into the ocean than be reasonable? Fine, I will stretch to $115, but that is my absolute dead-end offer before I walk away for good.",
+    "Seller ($170): One hundred and fifteen dollars?! You are wasting my precious breath and testing my absolute limits! Hand over $170 right this second or get off my sidewalk for good!",
+    "Buyer ($125): $170 is completely delusional for a scratched-up paperweight that's probably missing half its internal components. I'll make one final push to $125, but if you don't accept it right now, I'm walking away forever.",
+    "Seller ($170): One hundred twenty-five dollars?! You are insulting my entire family with these pathetic pennies! $170 is my absolute rock-bottom price, so pay up right now or start running!",
+    "Buyer ($130): You are completely delusional screaming $170 for a scuffed-up brick that belongs in a dumpster! $130 is my absolute top dollar, and I am literally turning my back on you right now. Take $130 this exact second or I walk away forever!",
+    "Seller ($170): Turn your back then! You think I care about your pathetic $130 while you try to steal from me in plain daylight? It's $170 cash right now or you keep walking forever!"
+  ]
+}

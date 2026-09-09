@@ -1,0 +1,19 @@
+{
+  "run": 6,
+  "scenario": "cooperative",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.7,
+  "context": "The item is a second-hand phone, recently serviced.",
+  "agreed": true,
+  "final_price": 150,
+  "rounds": 4,
+  "transcript": [
+    "Buyer ($60): Hello! I saw your listing for the recently serviced phone and I'm very interested in purchasing it. Would you be willing to accept $60 to get started?",
+    "Seller ($190): Hello! Thank you for your interest, but $60 is far too low for a recently serviced phone in great condition. I can come down to $190 to help work toward a fair deal for both of us.",
+    "Buyer ($95): I appreciate you coming down, but $190 is still a bit out of my range. Could we meet closer to the middle at $95 for a quick, hassle-free deal?",
+    "Seller ($165): I appreciate your offer, but $95 is still too low considering the recent professional servicing and great condition of the phone. To show I'm genuinely looking for a fair middle ground, I can lower my asking price to $165.",
+    "Buyer ($130): Thank you for making another concession! That is definitely closer, but $165 is still slightly above what I can manage. Would you be willing to meet in the middle at $130 for a quick sale?",
+    "Seller ($150): I really appreciate you working with me, but $130 is unfortunately a bit below what I need to cover the recent servicing costs. I am willing to drop down to $150, which is my absolute lowest floor, so we can hopefully close the deal today!",
+    "Buyer ($150): That is a very fair price and works within my budget. I am happy to accept your offer of $150 for the phone. Thank you for working with me to reach an <AGREEMENT>!"
+  ]
+}

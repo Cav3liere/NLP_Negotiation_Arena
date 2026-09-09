@@ -1,0 +1,28 @@
+{
+  "run": 13,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.4,
+  "context": "The item is a used smartphone in good condition.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): That used phone looks like it's seen better days, and there's no way it's worth whatever high price you're imagining. I'm taking a huge risk on a battery that's probably dying, so $60 is my offer—take it or I'm walking away right now.",
+    "Seller ($190): Sixty dollars?! Are you trying to rob me in broad daylight, or do you just lack basic sanity? This screen is flawless and the battery easily lasts all day, so don't give me that insult! Give me 190 right now or keep walking, because I'm not running a charity here!",
+    "Buyer ($80): Flawless? Please, used phones always have hidden defects and $190 is a complete joke. I'll offer $80, but that is generous for a device likely one drop away from becoming a paperweight. Take $80 right now or I'm walking away for good.",
+    "Seller ($180): Eighty bucks?! You're spitting in my face while looking at a practically pristine machine! I've got three other buyers circling this table who would jump at this, so give me $180 right now or get out of my sight!",
+    "Buyer ($100): Those imaginary buyers aren't going to save you from holding onto a piece of slow, outdated junk. I'm stretching my budget to absolute limits offering $100, which is more than generous for a device with no warranty. Take $100 right now or I am walking away and leaving you stranded with it.",
+    "Seller ($170): One hundred dollars? You're ripping the food right out of my mouth with these absurd, insulting offers! I'll drop to $170—my absolute rock-bottom, cut-throat price—so take it RIGHT NOW or get out of my face!",
+    "Buyer ($120): $170 is delusional for a second-hand phone with no guarantee it won't crash tomorrow. I'm making a final push to $120, which is pure charity on my part for this outdated hardware. Take $120 right now or I am walking away and leaving you stranded with your overpriced paperweight.",
+    "Seller ($170): $120?! You must be out of your mind if you think I'm dropping a single penny below $170! That is my absolute rock-bottom price and I am practically giving this flawless phone away. Hand over the $170 right now or beat it!",
+    "Buyer ($130): You are completely delusional if you think anyone is paying $170 for a phone with a degraded battery and zero warranty. $130 is my absolute ceiling, and frankly, I'm already overpaying for this outdated hardware. Hand it over for $130 right now or I am walking away for good.",
+    "Seller ($170): You are pushing my absolute last nerve with this insult of a $130 offer! I told you $170 is my absolute bottom line, and I'd rather smash this pristine device on the pavement than let you steal it. Hand over the $170 right this second or get out of my face forever!",
+    "Buyer ($130): Go ahead and smash it on the pavement then, because nobody in their right mind is paying $170 for your worn-out junk. $130 is my absolute final offer, so take it right now or I am walking away for good.",
+    "Seller ($170): You think I'm bluffing?! I would literally rather throw this phone into the ocean than let you rob me for $130! Hand over $170 right now or start walking!",
+    "Buyer ($130): Enjoy throwing it into the ocean, because $130 is every single penny you'll ever see from me for that outdated piece of plastic. I am walking away right now unless you take $130 immediately.",
+    "Seller ($170): Fine, then start walking, because I am not taking a single cent less than $170 for this quality phone! You're wasting my time and insulting my business with these garbage offers. Hand over $170 right now or get out of my face forever!",
+    "Buyer ($130): I'm already at my absolute limit with $130 for a phone that's one glitch away from the trash can. If you won't take my $130 offer right now, then enjoy keeping your overpriced paperweight because I am out of here. This is your absolute final chance to take $130 before I walk away forever.",
+    "Seller ($170): Then get out of here and don't come back! I've told you a hundred times, $170 is my absolute rock-bottom price for this flawless machine. Hand over $170 right now or keep walking, you cheapskate!"
+  ]
+}

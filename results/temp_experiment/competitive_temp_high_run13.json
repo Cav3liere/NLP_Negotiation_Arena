@@ -1,0 +1,28 @@
+{
+  "run": 13,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 1.0,
+  "context": "The item is a second-hand phone, recently serviced.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): A second-hand phone, even if 'serviced', is a massive risk and clearly not worth much. I'll give you 60 for it right now, or I'm walking away to find a decent deal elsewhere. Take it or leave it.",
+    "Seller ($190): 60 bucks?! You're insulting me, my family, and the expert technician who just revived this beauty! This is a freshly serviced masterpiece, not street trash—I'm not letting it go for a penny under 190, so pay up or keep walking!",
+    "Buyer ($80): Masterpiece? It's a refurbished piece of junk that is probably one drop away from the landfill! I'm doing you a favor here by offering 80, so take it now or enjoy keeping your useless 'revived beauty' forever.",
+    "Seller ($180): Eighty dollars?! You are trying to rob me in broad daylight! I'd rather smash this pristine phone on the pavement than give it away for pocket change, but I'll do 180 right now and not a single cent less!",
+    "Buyer ($100): You must be out of your mind if you think anyone is paying 180 for a beat-up, used phone. The battery is probably already half-dead and the 'service' job was likely done on a kitchen table. I will give you 100 top dollar right now, or I walk for good!",
+    "Seller ($170): One hundred?! You are driving a rusty dagger straight through my heart with these cheap offers! Fine, 170 cash right now—that is my absolute rock-bottom, blood-loss price, so take it this second or get out of my sight!",
+    "Buyer ($115): Your 'blood-loss price' is a total joke for a glorified paperweight that could stop working tomorrow. I am taking a massive risk even offering 115, and if you refuse, I am walking away right now to buy a decent phone.",
+    "Seller ($170): One hundred fifteen?! You are insane, absolutely out of your mind! I already bled down to 170, my absolute bottom line, and you still spit in my face? Put 170 in my hand right now or start walking, because you are wasting my precious time!",
+    "Buyer ($125): You are hallucinating if you think that junk is worth 170 when the 'serviced' parts are probably cheap knockoffs. I am willing to stretch to 125 out of pure pity, but that is my absolute final offer before I go buy a reliable phone elsewhere. Take 125 right now or I am gone for good.",
+    "Seller ($170): Pity?! Keep your pathetic pity and get out of my face before I completely lose my mind! I already told you, 170 is my absolute rock-bottom line and I'm not dropping a single cent lower for a freshly serviced masterpiece. Put 170 in my hand right now or keep walking, because 125 is an insult!",
+    "Buyer ($130): You must be delusional to hold at 170 for a phone that is a ticking time bomb of cheap repair parts. I will offer 130 as my absolute final limit, so take it right now or I am walking away for good.",
+    "Seller ($170): One hundred thirty?! Are you trying to drive me to an early grave with these insulting pennies?! I said 170 is my absolute rock-bottom, and I would rather smash this phone to bits than take a single dime less. Hand over 170 right now or turn around and walk away forever!",
+    "Buyer ($130): Go ahead and smash it then, because paying 170 for a broken-down relic is pure insanity. My absolute ceiling is 130, and since you refuse to be reasonable, I am walking away right now. Good luck finding another sucker to buy your overpriced junk!",
+    "Seller ($170): Fine, walk! See if I care about you running off over a few lousy bucks! You'll never find a phone this good for 170, so hand over the cash right now or get lost for good!",
+    "Buyer ($130): You are wasting your time trying to bully me into paying 170 for a questionable, second-hand risk. 130 is every single penny I have for your overpriced piece of plastic, so take it right now or enjoy keeping your useless phone forever!",
+    "Seller ($170): You think 130 is going to break my iron will?! I've stood here all day and I'm not backing down a single cent from 170 for this pristine, serviced beauty! Hand over the 170 right now or get out of my face!"
+  ]
+}

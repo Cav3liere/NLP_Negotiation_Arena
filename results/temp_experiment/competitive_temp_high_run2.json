@@ -1,0 +1,28 @@
+{
+  "run": 2,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 1.0,
+  "context": "The item is a used smartphone in good condition.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): Used phones like this usually have terrible battery life and hidden flaws, so whatever high price you want is ridiculous. I'm offering 60 for it right now, and if you refuse, I'll walk away and buy elsewhere.",
+    "Seller ($190): Sixty bucks?! Are you insane, trying to rob me in broad daylight? This battery is practically brand new, so pay 190 right now or keep walking!",
+    "Buyer ($75): Practically brand new is a classic lie used to cover up a degraded battery that will die in a month. I'm not paying anywhere near 190 for a risky second-hand phone, so I'll bump my offer to 75. Take it right now or I'm taking my cash to someone realistic.",
+    "Seller ($180): Seventy-five dollars?! You are spitting in my face and breaking my heart with these insulting garbage offers! Fine, I'll drop to 180 strictly because I'm in a generous mood, but take it right now or get out of my sight!",
+    "Buyer ($90): 180 is still a complete joke for a phone that is probably full of micro-scratches and internal damage. I am offering 90, which is already way too generous for a risky second-hand piece of junk. Drop your price significantly or I'm walking away right now.",
+    "Seller ($175): Ninety dollars?! You are bleeding me dry on these streets while standing in front of a flawless masterpiece! I won't go a single penny below 175, so put up the cash right now or stop wasting my precious time!",
+    "Buyer ($105): 175 is an absolute insult for a phone that will probably overheat the second I turn it on. I'll make one final increment to 105, which is already way more than this outdated device is worth. Take it right now or I am walking away for good!",
+    "Seller ($170): One hundred and five?! You are tearing my heart out and spitting on my livelihood! I'll do 170—my absolute rock-bottom, losing-money price—so hand over the cash right now or get out of my face!",
+    "Buyer ($120): 170 is an absolute scam for a second-hand phone with a degraded battery and hidden internal damage. I'm stretching my budget to 120, but that is my absolute limit before I walk away to buy a reliable phone elsewhere.",
+    "Seller ($170): One hundred and twenty dollars?! You are out of your mind if you think I'm giving this pristine phone away for pocket change! I told you 170 is my rock-bottom price, so pay the money right now or hit the pavement!",
+    "Buyer ($130): Your 'pristine' claim is a complete fantasy for a phone that probably has a ruined battery and hidden damage. I will give you $130 right now as my absolute final offer, not a single penny more. Take it immediately or I am walking away for good.",
+    "Seller ($170): One hundred and thirty dollars?! You are insulting my ancestors and destroying my livelihood with these ridiculous numbers! The price is 170 dollars—hand over the cash right now or start walking!",
+    "Buyer ($130): 170 is a delusional price for a piece of junk with a dying battery and questionable hardware. 130 is my absolute maximum limit, so take it immediately or I am walking away right now to buy a better phone elsewhere.",
+    "Seller ($170): You keep repeating 130 like a broken record while trying to starve my family! I said 170 and I mean 170—either hand over the money right now or take your pathetic budget somewhere else!",
+    "Buyer ($130): You are out of your mind if you think anyone is paying 170 for a device that is one charge away from exploding. 130 is every single cent I am willing to throw away on this glorified paperweight. Take it right now or I am walking out that door for good.",
+    "Seller ($170): Then walk out that door, you ungrateful parasite! You won't find a pristine machine like this for 130 anywhere on these streets. Pay the 170 right now or get out of my sight forever!"
+  ]
+}

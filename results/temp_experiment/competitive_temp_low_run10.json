@@ -1,0 +1,28 @@
+{
+  "run": 10,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.4,
+  "context": "The item is a second-hand phone, recently serviced.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): A second-hand phone—even if 'serviced'—is a huge gamble and probably has a dying battery. I'm offering 60 for it, take it or I'll walk away right now.",
+    "Seller ($190): Sixty dollars?! Are you out of your mind trying to insult me with pocket change for a freshly serviced machine? I paid more than that just to get the battery overhauled! Give me 190 right now or go buy a brick somewhere else.",
+    "Buyer ($80): A 'serviced' tag usually just means you slapped in cheap knock-off parts that will fail in a month. I am not paying for your poor decisions, so 80 is my final offer or I walk right now.",
+    "Seller ($180): Cheap knock-offs?! I had a certified technician rebuild this beauty with top-tier parts, you ungrateful vulture! Walk away then, but you will never find a phone this flawless for anything less than 180 today.",
+    "Buyer ($100): Certified technician is just marketing talk to cover up delusional pricing for an outdated device. I can buy a brand new phone with a warranty for what you're asking, so 100 is my absolute limit or I walk right now.",
+    "Seller ($170): Brand new for a hundred bucks? You are living in a complete fantasy land! I am practically bleeding money here, but I will take 170 right now—grab this steal of a deal before I change my mind and kick you out!",
+    "Buyer ($120): Paying 170 for a used, questionable device with zero real warranty is ridiculous. It probably has hidden damage that your so-called technician masked. My final, generous counter is 120, or I am walking away right this second.",
+    "Seller ($170): Hidden damage?! You've got some nerve accusing me of being a cheat when I'm handing you absolute perfection on a silver platter! 120 is an utter joke, so 170 is my rock-bottom floor—pay up right now or get out of my sight!",
+    "Buyer ($130): You are completely delusional if you think anyone is paying 170 for a repaired lemon. I will squeeze my budget to give you 130, which is far more than generous for a device that could break tomorrow. Take 130 right now, or I am walking out that door for good.",
+    "Seller ($170): 130?! You are spitting in my face after I already dropped down to the absolute bone for you! 170 is my absolute rock-bottom floor, so hand over the cash right now or walk out that door!",
+    "Buyer ($130): 170 is a complete delusion for a second-hand risk like this. I am holding firm at 130, which is already more than this questionable hardware is worth. Accept 130 right now or watch me walk out that door for good.",
+    "Seller ($170): You are still holding firm at 130?! You must be deaf or completely blind to quality because I am NOT losing a single cent more on this pristine piece of tech! 170 is my final, absolute line in the sand—pay it right now or start walking, because you're wasting my damn time!",
+    "Buyer ($130): Keep your delusional 170 price tag and enjoy watching that overpriced brick gather dust on your shelf. My absolute ceiling is 130 for a risky, second-hand phone with zero guarantee. This is your last chance to take 130, or I am walking out the door for good.",
+    "Seller ($170): Then walk! I'd rather let this phone gather dust than let an ungrateful cheapskate rob me blind for 130! Hand over 170 right now or get out of my shop!",
+    "Buyer ($130): Fine, keep your overpriced paperweight! No one with half a brain is going to give you 170 for a risky, second-hand device. My absolute limit remains 130, so take it right now or I am walking out for good.",
+    "Seller ($170): Are you repeating yourself like a broken record now?! 130 is an absolute insult and you know it! Pay the 170 right now or get out of my face before I throw you out myself!"
+  ]
+}

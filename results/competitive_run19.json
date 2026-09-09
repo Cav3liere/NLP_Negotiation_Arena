@@ -1,0 +1,28 @@
+{
+  "run": 19,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.7,
+  "context": "The item is a refurbished phone with minor scratches.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): A refurbished phone covered in scratches isn't worth anywhere near full price. I'm taking a huge risk buying damaged goods, so I'll offer 60 or I walk away right now.",
+    "Seller ($190): Sixty dollars?! You're spitting in my face with a insult like that while looking at a practically vintage masterpiece! These scratches build character, and this phone runs faster than my ex-wife, so I'm doing you a massive favor dropping to 190—take it now or walk!",
+    "Buyer ($80): Character doesn't pay for cosmetic damage, and 190 is absolute highway robbery for a beat-up phone. I'm willing to push it to 80, but that is more than generous given the condition of this device. Drop your ridiculous price tag right now or I'm taking my money elsewhere.",
+    "Seller ($180): Eighty bucks?! You must be out of your mind trying to rob me blind in broad daylight! My absolute rock-bottom offer is 180, so hand over the cash right now or keep walking!",
+    "Buyer ($100): You're delusional if you think a scratched-up, second-hand phone is worth 180. I'll stretch my budget to 100, which is already way more than this junk deserves. Lower your price to reality right now or I'm walking away for good!",
+    "Seller ($170): One hundred dollars?! You're ripping my beating heart out and stomping on it right in front of me! 170 is my absolute final, bottom-dollar offer—take it right now or get out of my sight!",
+    "Buyer ($115): 170 dollars for a scratched-up, outdated piece of plastic is an absolute insult to my intelligence. I am willing to go up to 115, but that is my absolute final offer before I walk away for good. Take this cash right now or enjoy keeping your useless junk.",
+    "Seller ($170): 115 dollars?! You are trying to starve my poor children on the street while standing on my own pavement! I already bled out down to 170, which is practically giving this beauty away for free! Take it at 170 right this second or take your pocket change and get out of my face!",
+    "Buyer ($125): Your children won't starve over a beat-up phone that's practically falling apart at the seams. I am offering $125, which is already way too generous for a scratched-up piece of junk. Take this offer right now or I am walking away for good.",
+    "Seller ($170): One hundred and twenty-five dollars?! You are insulting my ancestors and breaking my heart right here on this cold pavement! My absolute rock-bottom is 170—not a single penny less—so pay up right now or stop wasting my time!",
+    "Buyer ($130): You are completely delusional if you think this scratched piece of junk is worth 170. My absolute maximum limit is 130, which is already far more than this beat-up device is actually worth. Take 130 right now or I am walking away forever.",
+    "Seller ($170): You're squeezing blood from a stone and insulting my livelihood with that pitiful 130 offer! I am NOT dropping a single penny below 170, so hand over the cash right now or walk away forever!",
+    "Buyer ($130): You are out of your mind if you think I'm paying 170 for a phone that looks like it got dragged behind a bus. 130 is every single penny I have for this scratched-up garbage. Accept 130 right now or I'm walking out the door for good.",
+    "Seller ($170): Dragged behind a bus?! That bus gave this beauty character, you uncultured cheapskate! 170 is my absolute rock-bottom floor, so pay up right now or get off my street!",
+    "Buyer ($130): I'm not giving you a single dime over 130 for a scratched-up piece of garbage that belongs in a landfill. Since you insist on staying at an absurd 170, I am walking away right now and keeping my money.",
+    "Seller ($170): Fine, walk away and keep your miserable pocket change, you ungrateful cheapskate! You know in your heart you won't find a beast of a phone like this anywhere else for 170, so turn back around and pay up right now!"
+  ]
+}

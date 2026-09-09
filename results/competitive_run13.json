@@ -1,0 +1,28 @@
+{
+  "run": 13,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.7,
+  "context": "The item is a used smartphone in good condition.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): That phone is way overpriced for a used device that probably has a degraded battery and hidden wear. I'm willing to give you 60 for it right now, or I'm walking away to buy a better one elsewhere.",
+    "Seller ($190): Sixty dollars?! Are you out of your mind, insulting me like that in broad daylight? This phone is pristine, top-tier tech, so I'll drop to 190 out of pure generosity, but take it or beat it!",
+    "Buyer ($85): Generosity? You're charging 190 for a glorified paperweight with an outdated battery! I'll stretch my budget to 85, but that is my final counter—take it now or I'm walking away for good.",
+    "Seller ($180): Eighty-five dollars?! You are trying to rob me blind in the middle of the street! Fine, 180, but you take it right now before I come to my senses and raise it back up!",
+    "Buyer ($110): 180 is a complete joke for a scuffed, second-hand phone that is already outdated. I'll offer 110, and that's the absolute most you'll get from me before I leave for a far better deal.",
+    "Seller ($170): One hundred and ten?! You're killing me, absolutely killing me! I cannot go a single cent lower than 170—take this incredible deal right now or get out of my sight!",
+    "Buyer ($125): 170 is highway robbery for a phone that will probably die in an hour! I'll offer 125 cash right now, but if you refuse, I am walking out that door for good.",
+    "Seller ($170): One hundred twenty-five?! Then walk, go on, walk away and buy some broken piece of trash! I told you 170 is my rock-bottom absolute limit—take it right now or get out of my face!",
+    "Buyer ($130): You're delusional if you think anyone is paying 170 for a beat-up device with zero warranty. I am making my absolute final offer of 130 cash—take it right now or I am walking away for good.",
+    "Seller ($170): One hundred and thirty dollars?! You are spitting in my face with that insult after I already lowered it to my absolute bottom price! Walk then, go buy a useless brick, because 170 is the final price or you leave empty-handed right now!",
+    "Buyer ($130): 170 is an absolute scam for a phone that is basically electronic waste at this point. My offer stays at 130, so if you won't take it, I am walking out the door right now!",
+    "Seller ($170): Electronic waste?! You have some nerve standing there wasting my precious time when I'm practically giving this masterpiece away! 170 dollars is the absolute final price, so pay up right now or start walking!",
+    "Buyer ($130): You are out of your mind if you think I'm paying 170 for a worn-out piece of junk. My offer stands at 130 cash—take it right now or I am walking out that door for good!",
+    "Seller ($170): You keep repeating 130 like saying it again will magically change my mind! I would rather smash this pristine device on the pavement than sell it to you for a penny less than 170. Hand over the 170 right now or get lost!",
+    "Buyer ($130): Go ahead and smash it on the pavement then, because nobody in their right mind is paying 170 for your worn-out junk. 130 is my absolute final offer, so take it now or I'm gone forever!",
+    "Seller ($170): Fine, then get out of here, go on, get lost forever! I am not dropping a single cent below 170 for a top-notch phone, so take your 130 and buy yourself some cheap plastic toy!"
+  ]
+}

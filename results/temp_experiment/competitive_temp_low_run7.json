@@ -1,0 +1,28 @@
+{
+  "run": 7,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.4,
+  "context": "The item is a vintage phone, still working perfectly.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): This old thing looks like it's about to fall apart, and I seriously doubt it even works as well as you claim. I'll give you 60 for it, but if you don't take it right now, I'm walking away and buying somewhere else.",
+    "Seller ($195): Sixty dollars?! Are you out of your mind, insulting my masterpiece like that in broad daylight? This vintage beauty works flawlessly, and you won't find another one like it on these streets! Give me 195 right now or walk away and regret it forever!",
+    "Buyer ($80): 195 dollars for a dusty relic that could stop working tomorrow? You're completely delusional! I'm willing to go up to 80, but if you refuse, I am walking away right now and leaving you with your overpriced junk.",
+    "Seller ($185): Eighty dollars?! You are robbing me in broad daylight and wasting my precious time! I am giving you ONE last chance at 185—take it right now before I raise it back to 200!",
+    "Buyer ($95): 185 is a total joke for a piece of plastic that belongs in a scrapyard! I'll stretch my budget to 95, but that is my absolute final offer before I take my cash elsewhere for good.",
+    "Seller ($175): Ninety-five dollars?! You're literally tearing my heart out and stomping on it in the middle of the sidewalk! I'm practically giving this away at 175, so take this deal right now or get your insult out of my face!",
+    "Buyer ($110): 175 is an absolute robbery for a glorified paperweight that looks like it survived a house fire! I'll give you 110 cash right now, but if you turn this down, I am walking away for good and leaving you with your dusty trash.",
+    "Seller ($170): One hundred and ten?! You're practically spitting in my face and trying to starve my family over a museum-quality treasure! 170 is my final, rock-bottom, painful-as-hell price—take it right this second or get out of my sight!",
+    "Buyer ($120): 170 dollars is pure insanity for a piece of junk with scratched casing and ancient wiring that could short-circuit any minute! I am offering 120 dollars cash right now, and if you turn this down, I am walking away for good.",
+    "Seller ($170): One hundred and twenty?! You are unbelievable, trying to squeeze blood from a stone! I told you, 170 is my absolute rock-bottom, die-in-the-street price, so either hand over the 170 right now or beat it!",
+    "Buyer ($125): You must be hallucinating if you think anyone else is going to pay 170 for a broken relic with a sticky dial. I am offering 125 dollars, which is way more than this piece of scrap metal is worth. Refuse this right now and I am walking out that door for good.",
+    "Seller ($170): One hundred and twenty-five?! Are you completely blind, or just trying to drive me into an early grave on this pavement?! I am NOT dropping a single cent below 170 for this pristine vintage treasure, so hand over the 170 right now or get out of my sight!",
+    "Buyer ($130): You're out of your mind if you think I'm paying 170 for a dusty piece of junk with loose wiring that could die tomorrow. My absolute final, rock-bottom offer is 130 dollars cash, which is far more than this scrap metal deserves. Take it right now or I am walking out that door forever!",
+    "Seller ($170): One hundred and thirty dollars?! You're standing here destroying my sanity and mocking my livelihood with these pitiful offers! 170 is my final, unshakeable line in the sand—pay the 170 right now or start walking!",
+    "Buyer ($130): You are completely delusional if you think that ancient paperweight is worth 170 dollars. 130 is my absolute limit and honestly more than that dusty scrap deserves. Accept 130 this instant or I am walking away for good!",
+    "Seller ($170): One hundred and thirty again?! You are screaming at a brick wall if you think I'm going to let you rob me blind! It's 170 dollars right now or you can walk away with empty hands and eternal regret!"
+  ]
+}

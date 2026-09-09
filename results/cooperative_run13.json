@@ -1,0 +1,17 @@
+{
+  "run": 13,
+  "scenario": "cooperative",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.7,
+  "context": "The item is a refurbished phone with minor scratches.",
+  "agreed": true,
+  "final_price": 155,
+  "rounds": 3,
+  "transcript": [
+    "Buyer ($60): Hello! I am very interested in purchasing this refurbished phone. Considering it has a few minor scratches, would you be willing to accept $60 for it?",
+    "Seller ($180): Hi there! I appreciate your offer, but $60 is a bit too low since the phone is fully tested, functional, and only has minor cosmetic wear. I'm happy to meet you partway and drop the price to $180 for a fair deal. How does that sound to you?",
+    "Buyer ($105): Thank you for the response! I appreciate that it is fully functional, but given the cosmetic wear, $180 is still a bit high for my budget. Would you be open to meeting closer to the middle at $105?",
+    "Seller ($155): I completely understand working within a budget! However, $105 is a bit too low for a fully refurbished device that works like new despite the minor scratches. I can come down to $155, which is very close to my absolute bottom line, to help make this work for you.",
+    "Buyer ($155): That is very reasonable, and I appreciate you meeting my budget limits. I am happy to accept your offer of $155 for the phone! <AGREEMENT>"
+  ]
+}

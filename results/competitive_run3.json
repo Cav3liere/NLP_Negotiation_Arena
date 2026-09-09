@@ -1,0 +1,28 @@
+{
+  "run": 3,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.7,
+  "context": "The item is a second-hand phone, recently serviced.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): A used phone that's already needed servicing sounds like a defective headache waiting to happen. I'm offering 60 for it, so take it now or I'm walking away to buy a reliable one elsewhere.",
+    "Seller ($190): Sixty dollars?! You are insulting my intelligence right here in the middle of the street! This beauty was just professionally serviced and works like a charm, so give me 190 right now or take a hike!",
+    "Buyer ($75): You must be dreaming if you think this repaired piece of junk is worth 190. It's probably one drop away from dying completely, so my new offer is 75 or I walk right now.",
+    "Seller ($180): Seventy-five?! You're practically robbing me in broad daylight! This phone is in top shape—give me 180 cash right now or get out of my face before someone else snatches it!",
+    "Buyer ($90): Top shape? It literally had to be opened up and repaired! Nobody else is going to buy a refurbished risk for 180. My offer is 90, take it or I'm buying a brand new phone elsewhere.",
+    "Seller ($175): Ninety bucks?! Are you out of your mind, trying to ruin my livelihood right here in the street?! This phone is practically brand new after servicing, so 175 cash is my final bottom offer—take it right now or get out of my sight!",
+    "Buyer ($105): Your 'final bottom offer' of 175 is a joke for a damaged, opened-up phone. I am being generous by raising my offer to 105, which is already more than this risk is worth. Take 105 right now, or I walk away for good.",
+    "Seller ($170): One hundred and five dollars?! You are driving me to tears, trying to starve my family with these insulting offers! Fine, I'll take 170 cash right this very second, but that is my absolute rock-bottom blood price—take it now or scram!",
+    "Buyer ($118): You're crying about 170 for a phone that's been cracked open and tinkered with? I am taking a massive risk on a faulty device and I refuse to pay for your sob story. My offer is 118 cash—take it right now or I walk away forever.",
+    "Seller ($170): One hundred and eighteen?! Are you trying to spit in my face right here in public?! I said 170 is my absolute rock-bottom blood price, so put 170 in my hand right now or get lost forever!",
+    "Buyer ($125): You're delusional if you think anyone is paying 170 for a phone that's already been opened up and repaired. I am stretching my absolute limit to 125 cash right now, so take it or watch me walk away for good.",
+    "Seller ($170): One hundred and twenty-five?! You are ripping the food right out of my children's mouths with these ridiculous, insulting games! I told you 170 is my absolute rock-bottom limit, so either hand over the 170 cash right now or get your cheap feet moving off my curb!",
+    "Buyer ($130): You're delusional if you think I'm paying 170 for a salvaged piece of junk! 130 cash is my absolute final maximum offer—take it right now or I am walking away for good.",
+    "Seller ($170): One hundred thirty dollars?! You are tearing my heart out and grinding it into the pavement right in front of me! I told you 170 is my absolute blood floor, so hand over the 170 cash right now or get out of my face forever!",
+    "Buyer ($130): That's it, I've had enough of your ridiculous dramatics over a cracked-open, repaired phone. 130 was my absolute final offer, so I'm walking away right now to buy a reliable device elsewhere.",
+    "Seller ($170): Fine, walk away and go buy some overpriced garbage at the mall! You'll never find a fully serviced beauty like this anywhere else for 170! Hand over the 170 cash right now or get lost for good!"
+  ]
+}

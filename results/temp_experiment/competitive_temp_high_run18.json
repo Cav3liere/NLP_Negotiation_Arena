@@ -1,0 +1,28 @@
+{
+  "run": 18,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 1.0,
+  "context": "The item is a second-hand phone, recently serviced.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): It's a used phone and 'recently serviced' just means it was already broken before. I'm not paying a fortune for someone else's headache, so I'll give you 60 or I'm walking away right now.",
+    "Seller ($190): Sixty dollars?! Are you trying to rob me in broad daylight, or are you just blind? This is a high-grade, fully restored device, not some piece of junk! Give me $190 right now, or walk away and regret missing the deal of the century.",
+    "Buyer ($75): Calling it 'restored' just means it is a Frankenstein phone built from cheap knock-off parts! $190 is a complete joke for a refurbished paperweight. I will go up to $75, but take it right now or I am walking away to buy a brand new device.",
+    "Seller ($185): Seventy-five dollars?! You are insulting me, my family, and the master technician who painstakingly revived this masterpiece! Go buy your cheap brand-new plastic brick then, because $185 is my absolute final offer and I'm practically bleeding money giving it to you!",
+    "Buyer ($90): Master technician? More like an amateur with a screwdriver who probably ruined the battery! $185 is absurd for a second-hand gamble, so $90 is as high as I go. Take it right now or I am walking away for good.",
+    "Seller ($180): Ninety bucks?! You're ripping my heart out! This battery holds a charge better than my ex holds a grudge, you ungrateful vulture. I'll drop to $180 just to get your insulting face out of my sight, but not a single penny less!",
+    "Buyer ($105): $180 is a total scam for a phone that's already had its guts ripped out and re-stitched. I'm taking a massive risk on a device that could die next week. My final counter-offer is $105, take it now or I walk away right this second.",
+    "Seller ($175): One hundred and five dollars?! You are spitting on my livelihood and mocking my generosity! Fine, $175, but you are literally taking food out of my children's mouths. Take it right now before I regain my sanity!",
+    "Buyer ($120): I don't care about your sob story, $175 for a repaired lemon is absolute robbery. I am taking all the risk on a device that will probably overheat in a week, so $120 is my highest offer. Grab this cash now or I'm walking out the door for good.",
+    "Seller ($170): One hundred and twenty?! You are driving me to absolute ruin, you ruthless bargainer! I am dropping to my absolute rock-bottom of $170, and if you turn that down, get out of my sight forever!",
+    "Buyer ($130): $170 is still a complete rip-off for a secondhand phone that's one drop away from the trash heap. I am making my absolute final offer of $130, which is already way more than this risky piece of junk is worth. Take $130 right now or I am walking out that door forever!",
+    "Seller ($170): One hundred and thirty dollars?! Are you out of your mind, trying to bleed me completely dry?! My price stays at $170—pay it right now or get out of my face!",
+    "Buyer ($130): You are insane if you think I am paying $170 for a patched-up piece of junk that won't last a month. $130 is my absolute limit and I am already overpaying for this headache. Agree to $130 right now or I am walking out for good!",
+    "Seller ($170): Then walk! You want me to give away a fully serviced masterpiece for a pathetic hundred and thirty bucks? I would rather smash this phone against the pavement right now than let a thief like you take it for less than $170!",
+    "Buyer ($130): Go ahead and smash it then, because a pile of broken parts is all this overpriced junk is actually worth! I am standing at the door, and $130 is the absolute most you will ever get from me. Take $130 right now or I walk away forever.",
+    "Seller ($170): Don't let the door hit you on the way out, you total cheapskate! You will never find a fully serviced phone this good for anything close to $170, so keep walking! Pay the $170 right now or get lost for good!"
+  ]
+}

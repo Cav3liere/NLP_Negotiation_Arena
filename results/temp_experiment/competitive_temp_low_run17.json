@@ -1,0 +1,28 @@
+{
+  "run": 17,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.4,
+  "context": "The item is a refurbished phone with minor scratches.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): This phone is refurbished and already covered in scratches, so it is barely worth anything. I can easily find a better, undamaged device elsewhere, but I will give you 60 for it right now—take it or I walk.",
+    "Seller ($190): Sixty dollars?! Are you insane, insulting me with pocket change for a fully functional smartphone? These minor scratches build character, and you won't find a deal like this anywhere else on the street. Give me 190 right now or keep walking!",
+    "Buyer ($80): Character? Those scratches look like someone dragged this phone across concrete, and the battery is probably degraded too. I'm not paying 190 for your junk, so I'll raise my offer to 80—take it or I walk for good.",
+    "Seller ($175): Eighty dollars? You're robbing me in broad daylight, pushing my blood pressure through the roof over a perfectly good phone! I'm practically bleeding money here, so 175 is my final, absolute bottom line—pay up or get out of my face!",
+    "Buyer ($100): 175 is a total joke for a scratched-up, second-hand brick that could break tomorrow. I'm doing you a huge favor by even looking at it, so my offer is 100. Take it right now or I am walking out the door for good.",
+    "Seller ($170): One hundred dollars?! You are ripping my heart out right here on the pavement with these insulting lowball offers! Fine, 170 is my absolute, dying-breath bottom price—hand over the cash right now or get lost for good!",
+    "Buyer ($115): 170 for a beaten-up secondhand phone is pure insanity, and you know it won't last a month. I'm taking a massive risk on this garbage, so 115 is my absolute final offer. Take it or I'm walking out that door right this second.",
+    "Seller ($170): 115?! You are out of your mind if you think I'm giving this away for peanuts! I said 170 is my rock-bottom price—either hand over the cash right now or beat it!",
+    "Buyer ($125): You're delusional if you think anyone is paying 170 for a beat-up phone with zero warranty. I'm offering 125 cash right now, which is already way more than this scratched piece of junk is worth. Take 125 right now or I am walking away for good.",
+    "Seller ($170): One hundred twenty-five?! You are wasting my precious time and tearing my nerves to shreds! I am NOT dropping a single cent below 170, so hand over the cash or get your cheap self off my corner!",
+    "Buyer ($130): You are out of your mind if you think this scratched-up garbage is worth 170. My absolute final, top-dollar offer is 130—I won't pay a single penny more for this beat-up device. Take the 130 right now or I am walking out the door for good.",
+    "Seller ($170): One hundred thirty?! You are standing here insulting my livelihood while trying to rob me blind! I told you 170 is my absolute floor, and I'd rather smash this phone on the pavement than take a penny less. Pay the 170 cash right this second or start walking!",
+    "Buyer ($130): Fine, go ahead and smash it then, because no sane person is ever paying 170 for your scratched-up junk! I offered 130, which was already overly generous for a phone with zero warranty and a dying battery. I'm walking away right now—enjoy holding onto your worthless brick!",
+    "Seller ($170): Then walk away, you cheapskate, because you're not getting this phone for a penny less than 170! Go find your 'undamaged device' somewhere else for double the price! Pay the 170 right now or keep marching!",
+    "Buyer ($130): I am literally stepping out the door right now. 130 cash is the absolute maximum you will ever get for this scratched-up garbage. Take it this second or enjoy keeping your worthless brick forever!",
+    "Seller ($170): Step right through that door then, because you aren't robbing me today! 170 is my rock-bottom, take-it-or-leave-it offer, and I won't budge a single penny. Put 170 in my hand right now or keep walking!"
+  ]
+}

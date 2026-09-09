@@ -1,0 +1,28 @@
+{
+  "run": 19,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 1.0,
+  "context": "The item is a vintage phone, still working perfectly.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): This vintage phone is ridiculously overpriced and likely has internal wear ready to break down at any moment. I'm taking a huge risk even considering such old hardware, so I won't offer a penny more than 60. Take it right now or I am walking away.",
+    "Seller ($190): Sixty bucks?! You've got to be out of your mind insulting a flawless piece of history like this! Pay 190 right now for this priceless beauty or get out of my sight before someone else snaps it up!",
+    "Buyer ($80): Priceless history? It's a dust-collecting plastic relic that could stop working tomorrow! 190 is a complete joke, so my absolute limit before I walk away for good is 80.",
+    "Seller ($180): Eighty dollars?! You are ripping the food right off my table with these insulting pocket-change offers! I'm practically bleeding cash here, but I'll do 180 right now—take it this instant or get out of my face!",
+    "Buyer ($100): Bleeding cash? You're trying to rob me blind for a glorified paperweight! I'll give you 100 right now, but if you refuse, I am walking away permanently and you can let it rot.",
+    "Seller ($170): One hundred dollars?! Are you trying to starve my family over a legendary antique that works like a charm?! Fine, 170 cash right now—this is my absolute rock-bottom floor, take it this second or get out of my sight!",
+    "Buyer ($115): Rock-bottom floor? Stop exaggerating, this fragile piece of junk isn't worth half that and will probably short-circuit the moment I plug it in. I'll raise my offer to 115, but that is my absolute final attempt before I walk away for good.",
+    "Seller ($170): One hundred and fifteen?! You are driving me insane with these garbage offers for a flawless, working gem! I told you 170 is my absolute rock-bottom floor, and I am not dropping another single dime. Hand over the 170 cash right now or start walking!",
+    "Buyer ($125): You are delusional if you think this ancient, fragile heap of plastic is worth 170. My absolute highest, final offer is 125—take it right now or enjoy watching it collect dust forever because I am walking out.",
+    "Seller ($170): One hundred and twenty-five?! You are literally spitting in my face and insulting a pristine piece of history! I'd rather smash this beauty onto the pavement than sell it for a penny under 170. Hand over the 170 right now or get out of my sight!",
+    "Buyer ($130): Go ahead and smash it then, because paying 170 for an obsolete piece of plastic is utter insanity. My absolute final, rock-bottom limit is 130, which is way more than this fragile relic is actually worth. Take the 130 cash right now or I am walking away forever and leaving you with zero.",
+    "Seller ($170): You think threatening to walk scares me when you're offering peanuts for a working masterpiece?! One hundred and seventy is already a crime against my livelihood, and I won't go a single cent lower. Give me the 170 cash right now or get lost!",
+    "Buyer ($130): You're out of your mind if you think I'm paying a single cent over 130 for a fragile, obsolete relic. Keep holding out for 170 and enjoy letting it rot on your shelf forever, because this is your last chance before I walk out the door!",
+    "Seller ($170): Then walk! I'd rather throw this working vintage beauty into the river than hand it over for a pathetic 130. Hand over the 170 cash right now or hit the bricks!",
+    "Buyer ($130): Then go throw it in the river, because I am not giving you a single penny over 130 for an obsolete piece of junk! Take the 130 cash right now or I am walking out that door for good!",
+    "Seller ($170): You are still standing here yapping because you know deep down this working classic is worth every single penny! I am not budging a single millimeter—it is 170 cash right now or you can hit the pavement empty-handed. Hand over the 170 or get out of my face!"
+  ]
+}

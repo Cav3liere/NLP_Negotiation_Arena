@@ -1,0 +1,28 @@
+{
+  "run": 1,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.4,
+  "context": "The item is a second-hand phone, recently serviced.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): A serviced phone usually just means it was broken and patched up with cheap aftermarket parts. I am taking a massive risk here, so $60 is all I am willing to offer—take it now or I will gladly walk away.",
+    "Seller ($190): Sixty dollars?! Are you out of your mind insulting me with pocket change for a freshly serviced machine? I'm practically bleeding money here, but I'll drop to $190 right now—take it before someone else steals this deal from you!",
+    "Buyer ($80): $190 is an absolute joke for a patched-up piece of junk that is bound to break next week. I will give you $80, which is more than generous given the risk, but that is my final counter before I walk away for good.",
+    "Seller ($180): Eighty dollars?! You are trying to ruin me on the open street! Fine, $180 is as low as my heart can take, so hand over the cash right now or get out of my face!",
+    "Buyer ($100): You must be delusional if you think a resurrected paperweight is worth $180. I will stretch to $100 just to be done with this, but that is my absolute limit—take it now or I walk.",
+    "Seller ($170): One hundred dollars?! You are spitting in my face and robbing me blind in broad daylight! Fine, $170 cash right now—that is my absolute rock-bottom, so take this steal immediately or get out of my sight!",
+    "Buyer ($115): $170 for a refurbished ticking time bomb is an absolute insult to my intelligence. I'm stretching to my absolute limit with $115 for this gamble, so take it right now or I am walking away for good.",
+    "Seller ($170): $115?! You are trying to starve my family over a top-tier serviced device! I told you $170 is my absolute rock-bottom, and I'm not dropping a single cent lower—pay it right now or start walking!",
+    "Buyer ($125): You claim it's a top-tier device, but we both know it's a cheap repair job waiting to fail. I will give you $125 as my absolute final offer, so take it right now or I am walking away for good.",
+    "Seller ($170): $125?! You are still standing here mocking me on my own corner after I gave you my rock-bottom! $170 is the price, not a penny less—cough up the cash right this second or get lost!",
+    "Buyer ($130): You are delusionally holding onto $170 for a broken piece of plastic that nobody else wants. I am throwing $130 on the table as my absolute final, non-negotiable offer to take this off your hands right now. Say yes or I am turning around and walking away forever.",
+    "Seller ($170): Then walk, you cheapskate, because you aren't getting this pristine phone for a penny under $170! I'd rather smash it on the pavement right here than let you rob me blind on my own street! Hand over the $170 right now or get out of my face forever!",
+    "Buyer ($130): Smash it on the pavement then, because I am not paying a cent over $130 for a patched-up piece of junk. This is your last chance to take my $130 before I walk away forever!",
+    "Seller ($170): You think I'm bluffing?! Keep walking then, because $170 is the absolute price and I'm not giving away a perfectly good phone to an insultingly cheap parasite! Final warning: $170 cash right now, or get out of my sight forever!",
+    "Buyer ($130): Keep your patched-up paperweight then! $130 is every single penny you are getting out of me, so either take it right now or I am walking away for good.",
+    "Seller ($170): Then start walking, you absolute time-waster! You are trying to bleed me dry, but I'm not budging a single cent off $170. Hand over the $170 cash right now or disappear from my corner for good!"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "run": 10,
+  "scenario": "cooperative",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.7,
+  "context": "The item is a refurbished phone with minor scratches.",
+  "agreed": true,
+  "final_price": 150,
+  "rounds": 4,
+  "transcript": [
+    "Buyer ($60): Hello! I am very interested in purchasing this refurbished phone. Considering the minor scratches, would you be open to an initial offer of $60? I am looking forward to working together on a fair price.",
+    "Seller ($180): Hi there! I appreciate your interest, but $60 is a bit too low given the phone is fully tested and refurbished. I'm happy to make a fair concession and lower the price to $180 to account for those minor cosmetic scratches. How does that sound to you?",
+    "Buyer ($95): Thank you for the counteroffer! While I appreciate that the phone is fully functional, $180 is still a bit above what I was hoping to spend given the cosmetic wear. Would you be willing to meet me at $95?",
+    "Seller ($160): I appreciate you bringing your offer up to $95, but $160 is the lowest I can go to cover my refurbishing and testing costs. It really is in excellent working condition despite the minor cosmetic wear. Would $160 work for your budget?",
+    "Buyer ($135): I understand your costs, and I appreciate you coming down to $160. To help bridge the gap, I can raise my offer to $135. Would that work as a fair middle ground for both of us?",
+    "Seller ($150): I really appreciate your effort to bridge the gap with $135. To help us reach a fair deal, I can lower my offer to $150, which is my absolute bottom price to cover the refurbishing costs. How does $150 sound to make this yours today?",
+    "Buyer ($150): That sounds like a very fair deal, and I appreciate you working with me on the price. I am happy to accept $150 for the phone! <AGREEMENT>"
+  ]
+}

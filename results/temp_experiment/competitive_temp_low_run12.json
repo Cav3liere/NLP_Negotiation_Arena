@@ -1,0 +1,28 @@
+{
+  "run": 12,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.4,
+  "context": "The item is a vintage phone, still working perfectly.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): A vintage phone like this is probably on its last legs, regardless of what you claim about its condition. I'm only willing to offer 60 for an outdated piece of plastic. Take my offer now or I'm walking away.",
+    "Seller ($190): Sixty bucks?! You gotta be out of your mind, pal—this is a museum-quality masterpiece that works like a dream, not cheap trash! Walk away then, but you will never find a gem like this anywhere else for a penny under 190. Take it right now before the guy behind you grabs it!",
+    "Buyer ($80): Museum-quality? Don't make me laugh—it's an old dust collector that could fry its wiring the second I plug it in. I'll offer 80, but if you keep playing games with fake buyers, I'm walking out that door.",
+    "Seller ($180): Eighty dollars?! You're ripping me off in broad daylight while standing in my own shop! This pristine beauty doesn't go for a penny below 180, so hand over the cash right now or hit the pavement!",
+    "Buyer ($100): You're delusional if you think anyone is paying 180 for a glorified paperweight that could stop working tomorrow. I'll give you 100, but that's my final offer before I walk out for good.",
+    "Seller ($170): One hundred dollars?! You are bleeding me dry, destroying my livelihood, and insulting this immaculate treasure! My absolute rock-bottom price is 170, so hand over the cash right now or get out of my face!",
+    "Buyer ($115): You're out of your mind asking 170 for a dusty relic with questionable internal wiring. I'm stretching my absolute limit to 115 just to take this risk off your hands. Either accept 115 right now, or I'm walking away for good.",
+    "Seller ($170): 115?! You're standing here spitting in my face after I already dropped my price to the bare bone! I'd rather throw this gem into the river than give it away for 115, so pay the 170 or get lost!",
+    "Buyer ($125): Throw it in the river then, because nobody else is buying this ancient junk with its rotting components! I'll give you 125, which is pure charity for something that belongs in a scrapyard. Take 125 right now or I am permanently walking out.",
+    "Seller ($170): Charity?! You call insulting my blood, sweat, and tears charity?! My price is 170 cash, right now, or you can take your fake charity and get out of my shop!",
+    "Buyer ($130): 170 is a complete joke for a rotting piece of plastic that probably won't even ring when plugged in. 130 is every single penny I'm willing to waste on this risk, so take it right now or I am walking out that door for good.",
+    "Seller ($170): 130 dollars is an insult to my ancestors who built this machine! I told you 170 is my absolute bottom, and I'm not dropping a single penny more. Pay the 170 right now or start walking, because you're wasting my time!",
+    "Buyer ($130): Your ancestors would be ashamed of you trying to scam people with an obsolete paperweight. 130 is my absolute final offer, and I won't pay a single cent more for this junk. Take the 130 cash right now or watch me walk out for good.",
+    "Seller ($170): Then walk! I'd rather smash this absolute masterpiece on the curb than let you steal it for 130! Pay the 170 right now or get out of my sight forever!",
+    "Buyer ($130): Go ahead and smash it on the curb then, because that ancient scrap isn't worth a penny over 130. I'm stepping out the door right now, so take my 130 offer this second or get nothing at all!",
+    "Seller ($170): Don't let the door hit you on the way out! You think I'm gonna break for 130 after everything I've said? It's 170 cash right now or keep walking!"
+  ]
+}

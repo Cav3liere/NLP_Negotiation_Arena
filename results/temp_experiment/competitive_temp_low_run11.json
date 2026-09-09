@@ -1,0 +1,28 @@
+{
+  "run": 11,
+  "scenario": "competitive",
+  "model_id": "gemini-3.6-flash",
+  "temperature": 0.4,
+  "context": "The item is a second-hand phone, recently serviced.",
+  "agreed": false,
+  "final_price": null,
+  "rounds": 8,
+  "transcript": [
+    "Buyer ($60): A second-hand phone is a massive gamble, and 'serviced' usually just means someone poked around inside it without fixing the real issues. I'll offer 60 for this, but if you don't take it right now, I'm walking away.",
+    "Seller ($190): 60?! Are you trying to insult me on my own corner? This phone was restored by a master technician, not 'poked around' in! Give me 190 right now or take your weak threats somewhere else!",
+    "Buyer ($75): Master technician? That's a joke—it's still a glorified piece of electronic waste that could break in a week. I'll give you 75 out of sheer pity, but if you refuse, I'm taking my money elsewhere right now.",
+    "Seller ($180): Pity? You're insulting my livelihood with a pocketful of loose change! Step aside then, because I've got real buyers waiting in line for a pristine device like this. Give me 180 cash right now or get out of my face!",
+    "Buyer ($90): Real buyers? Nobody in their right mind is paying 180 for a refurbished paperweight with zero warranty. I'll offer 90 cash, but if you push back again, I'm leaving for good.",
+    "Seller ($170): 90?! You're bleeding me dry and spitting in my face on the open street! Fine, I'll drop to my absolute absolute bottom—170 cash right this second, or get out of my sight forever!",
+    "Buyer ($105): 170 is a total scam for a phone that's been ripped open and patched back together. I'm generous enough to stretch to 105, but if you want to hold out for your imaginary line of buyers, I'm out the door right now.",
+    "Seller ($170): You're really going to walk away over a few bucks when I've already bled down to 170 for you? That is my final line in the sand—hand over the 170 right now or beat it!",
+    "Buyer ($120): 170 is a complete joke, and your 'line in the sand' is washed away by basic logic. My absolute final offer is 120 cash, or I'm walking out that door right now to buy a functional device with a real warranty. Take it or leave it, because I'm done wasting my time.",
+    "Seller ($170): 120?! You are out of your mind if you think I am giving this pristine device away for pocket change! I told you 170 is my absolute floor—hand over the 170 cash right now or hit the pavement!",
+    "Buyer ($130): You can scream 170 all day, but this tampered-with piece of junk isn't worth a penny more to me. I will offer 130 cash right now as my absolute dead-end limit, so take it or I walk away forever.",
+    "Seller ($170): 130?! You've got some serious nerve trying to squeeze blood from a stone on my corner! I said 170 is my bottom line, so either hand over the cash or keep walking!",
+    "Buyer ($130): You're delusional if you think anyone is paying 170 for a tampered device with zero warranty. 130 is every single cent I'm willing to waste on this gamble, so hand it over or I am walking out that door right now. Good luck finding another sucker.",
+    "Seller ($170): You think I'm running a charity on this corner?! Walk then, see if I care—there isn't a better phone on this entire street for under 170! Hand over the 170 cash right now or get out of my face for good!",
+    "Buyer ($130): Enjoy sitting on your overpriced paperweight because I am not paying a single cent over 130 for this tampered garbage. This is your absolute last chance to take my 130 cash right now before I walk away for good.",
+    "Seller ($170): Then hit the road, you time-wasting cheapskate! You think your empty threats scare me on my own turf? Hand over 170 cash right now or get lost forever!"
+  ]
+}
